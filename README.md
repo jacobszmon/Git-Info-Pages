@@ -47,7 +47,7 @@ The following should be done by the team member who owns the repo.
 
 2.  Push your updated `_config.yml` to your site on GitHub.
 
-3.  In your newly created repo on GitHub:
+3.  In your newly forked version of this repo on GitHub:
     - go to the `Actions` tab and enable the repository actions.
     - go to the `Settings` tab -> `Pages` -> `Build and deployment`, then select `Source`: `GitHub Actions`.
     - if there were any failed Actions, go to the `Actions` tab and click on `Re-run jobs`.
@@ -56,12 +56,11 @@ The following should be done by the team member who owns the repo.
 
 You're free to customize sites that you create with this template, however you like!
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
+[Browse the Just the Docs documentation][Just the Docs] to learn more about how to use this theme.
 
 ## Licensing and Attribution
 
-This repository is licensed under the [MIT License]. You are generally free to reuse or extend upon this code as you see fit; just include the original copy of the license (which is preserved when you "make a template"). While it's not necessary, we'd love to hear from you if you do use this template, and how we can improve it for future use!
+This repository is licensed under the [MIT License]. You are generally free to reuse or extend upon this code as you see fit; just include the original copy of the license (which is preserved when you fork this repo). While it's not necessary, we'd love to hear from you if you do use this template, and how we can improve it for future use!
 
 The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party [starter workflows]. A copy of their MIT License is available in [actions/starter-workflows].
 
