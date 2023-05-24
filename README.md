@@ -46,6 +46,7 @@ The following should be done by the team member who owns the repo.
 2.  Push your updated `_config.yml` to your site on GitHub.
 
 3.  In your newly created repo on GitHub:
+    - go to the `Actions` tab and enable the repository actions.
     - go to the `Settings` tab -> `Pages` -> `Build and deployment`, then select `Source`: `GitHub Actions`.
     - if there were any failed Actions, go to the `Actions` tab and click on `Re-run jobs`.
 
