@@ -12,9 +12,9 @@ After forking the repository, update it as needed:
 
 ## Invite Others to Collaborate with you on this Project
 
-Only one team member needs to clone the repository. They can then give their team members under the repo's `Settings => Collaborators` page.
+Only one team member needs to clone the repository. They can then give their team members access under the repo's `Settings => Collaborators` page.
 
-You should then collaboratively work on building out this site according to the assignment instructions.
+The team should then collaboratively work on building out this site according to the assignment instructions.
 
 ## Replace the Content of the Template Pages
 
@@ -23,6 +23,8 @@ Update the following files to your own content:
 - `index.md` (your new home page)
 - `README.md` (information for those who access your site repo on GitHub)
 - `docs\first-doc.md` (Sample nested page. All pages other than home should go in `docs`.)
+
+Remember that you will be using [Markdown Syntax] rather than raw HTML to format the content of your pages.
 
 ## Publish your site on GitHub Pages
 
@@ -66,6 +68,7 @@ The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
 [GitHub Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
+[Markdown Syntax]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 [MIT License]: https://en.wikipedia.org/wiki/MIT_License
 [starter workflows]: https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml
 [actions/starter-workflows]: https://github.com/actions/starter-workflows/blob/main/LICENSE
