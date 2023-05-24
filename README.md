@@ -6,6 +6,8 @@ This is a *bare-minimum* template to create a [Jekyll] site that:
 - can be built and published on [GitHub Pages] using a [GitHub Actions workflow];
 - can be built and previewed locally, and published on other platforms.
 
+You can see [a deployed version of this template here].
+
 To get started with creating a site, just fork this repository.
 
 After forking the repository, update it as needed:
@@ -69,6 +71,7 @@ The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
 [GitHub Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
+[a deployed version of this template here]: https://stungeye-rrc.github.io/Just-The-Docs-Template/
 [Markdown Syntax]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 [MIT License]: https://en.wikipedia.org/wiki/MIT_License
 [starter workflows]: https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml
