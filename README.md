@@ -102,7 +102,7 @@ Which outputs:
 
 ## The File and Folder Structure of the Repository
 
-All of the course note modules can be found in the `docs` folder as Markdown files with `.md` file extensions.
+All of your documentation modules will be found in the `docs` folder as Markdown files with `.md` file extensions.
 
 The `docs` folder is currently structured like this:
 
