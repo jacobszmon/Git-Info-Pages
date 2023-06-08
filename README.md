@@ -78,16 +78,21 @@ Markdown allows us to easily add typographic formatting, links, images, and tabl
 
 Some example Markdown:
 
-```markdown
+````markdown
 # This is a Heading
 
 ## And a Sub-Heading
 
-This is a paragraph that includes some **bold** and _italized_ text and a [link](http://stungeye.com).
+This paragraph includes **bold**, _italized_, and `monospaced` text, plus a [link](http://stungeye.com).
 
 - Item
 - List
+
 ```
+This is a code block
+that spans multiple lines.
+```
+````
 
 Which outputs:
 
@@ -95,10 +100,15 @@ Which outputs:
 >
 > ## And a Sub-Heading
 >
-> This is a paragraph that include some **bold** and _italized_ text and a [link](http://stungeye.com).
+> This paragraph includes **bold**, _italized_, and `monospaced` text, plus a [link](http://stungeye.com).
 >
 > - Item
 > - List
+> 
+> ```
+> This is a code block
+> that spans multiple lines.
+> ```
 
 ## The File and Folder Structure of the Repository
 
