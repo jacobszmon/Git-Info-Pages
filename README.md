@@ -1,12 +1,12 @@
 # just-the-docs-template
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+This is a *bare-minimum* template to create a documentation website that:
 
+- Use the static-site generator [Jekyll];
 - uses the [Just the Docs] theme;
 - can be built and published on [GitHub Pages] using a [GitHub Actions workflow];
-- can be built and previewed locally, and published on other platforms.
 
-You can see [a deployed version of this template here].
+See [a deployed version of this template here].
 
 To get started with creating a site, just fork this repository.
 
@@ -22,8 +22,8 @@ The team should then collaboratively work on building out this site according to
 
 Update the following files to your own content:
 
-- `index.md` (your new home page)
-- `README.md` (information for those who access your site repo on GitHub)
+- `index.md` (Your new home page.)
+- `README.md` (Replace this readme with some information about your team and team members.)
 - `docs\first-doc.md` (Sample nested page. All pages other than home should go in `docs`.)
 
 Remember that you will be using [Markdown Syntax] rather than raw HTML to format the content of your pages.
@@ -58,7 +58,6 @@ The following should be done by the team member who owns the repo.
 - The docs are written using Markdown syntax.
 - The notes consist of modules written as `.md` files in the `docs` folder.
 - The sidebar menu and the module table of contents are auto-generated.
-- Modules can be a single files or can be separated into sub-topics across multiple files.
 
 Each of these topics is covered below.
 
