@@ -48,14 +48,15 @@ The following should be done by the team member who owns the repo.
 2.  Push your updated `_config.yml` to your site on GitHub.
 
 3.  In your newly forked version of this repo on GitHub:
-    - go to the `Actions` tab and enable the repository actions.
-    - go to the `Settings` tab -> `Pages` -> `Build and deployment`, then select `Source`: `GitHub Actions`.
-    - if there were any failed Actions, go to the `Actions` tab and click on `Re-run jobs`.
+    - Go to the `Actions` tab and enable the repository actions.
+    - Go to the `Settings` tab -> `Pages` -> `Build and deployment`, then select `Source`: `GitHub Actions`.
+    - If there were any failed Actions, go to the `Actions` tab and click on `Re-run jobs`.
+    - Test if deployment worked by visiting the `url:` you set in the `_config.yml` file.
 
 ## Quick Overview Of How This Repo Works
 
 - This repo can generate a documentation website similar to your [Applied Math course notes](https://stungeye.github.io/Applied-Math-For-Games-1/).
-- The docs are written using Markdown syntax.
+- The docs are written using Markdown syntax and converted to a website using Jekyll with the Just the Docs theme.
 - The notes consist of modules written as `.md` files in the `docs` folder.
 - The sidebar menu and the module table of contents are auto-generated.
 
