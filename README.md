@@ -68,7 +68,7 @@ Each of these topics is covered below.
 
 Jekyll sites can be hosted for free on [GitHub Pages](https://pages.github.com/). GitHub Pages publishing instructions for this repo are described above.
 
-The look and feel of a Jekyll generated website can be changed using a Jekyll theme. These notes use the [Just the Docs theme](Just the Docs). The following sections are provided as a quick start guide, but you should reference the [official documentation](Just the Docs) for the nitty-gritty details on how to work with the theme.
+The look and feel of a Jekyll generated website can be changed using a Jekyll theme. These notes use the [Just the Docs theme](https://just-the-docs.github.io/just-the-docs/). The following sections are provided as a quick start guide, but you should reference the [official documentation](https://just-the-docs.github.io/just-the-docs/) for the nitty-gritty details on how to work with the theme.
 
 ## Writing Notes in Markdown and Editing Notes Online
 
