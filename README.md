@@ -74,7 +74,7 @@ The look and feel of a Jekyll generated website can be changed using a Jekyll th
 
 The notes are written using the [Kramdown-variant of Markdown Syntax](https://kramdown.gettalong.org/quickref.html). This means the notes are stored as plain text in this repository and converted into an HTML website by Jekyll. There is a small amount of meta-data at the top of each markdown file that [Jekyll calls front matter](https://jekyllrb.com/docs/front-matter/).
 
-Markdown allows us to easily add typographic formatting, links, images, and tables to the notes. Everything you need to know about Markdown can be seen at [the Kramdown Quick Reference](https://kramdown.gettalong.org/quickref.html)).
+Markdown allows us to easily add typographic formatting, links, images, and tables to the notes. Everything you need to know about Markdown can be seen at [the Kramdown Quick Reference](https://kramdown.gettalong.org/quickref.html).
 
 Some example Markdown:
 
