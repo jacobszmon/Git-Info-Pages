@@ -32,7 +32,7 @@ Remember that you will be using [Markdown Syntax] rather than raw HTML to format
 
 The following should be done by the team member who owns the repo.
 
-1.  If your created repositor is `YOUR-USERNAME/YOUR-REPO-NAME`, update `_config.yml` to:
+1.  If your created repository is `YOUR-USERNAME/YOUR-REPO-NAME`, update `_config.yml` to:
 
     ```yaml
     title: YOUR TITLE
@@ -41,7 +41,7 @@ The following should be done by the team member who owns the repo.
 
     url: https://YOUR-USERNAME.github.io/YOUR-REPO-NAME
 
-    aux_links: # remove if you don't want this link to appear on your pages
+    aux_links: # remove these two lines if you don't want this link to appear on your pages
       Template Repository: https://github.com/YOUR-USERNAME/YOUR-REPO-NAME
     ```
 
@@ -52,6 +52,7 @@ The following should be done by the team member who owns the repo.
     - Go to the `Settings` tab -> `Pages` -> `Build and deployment`, then select `Source`: `GitHub Actions`.
     - If there were any failed Actions, go to the `Actions` tab and click on `Re-run jobs`.
     - Test if deployment worked by visiting the `url:` you set in the `_config.yml` file.
+    - If the website does not build contact your instructor immediately. 
 
 ## Quick Overview Of How This Repo Works
 
@@ -166,7 +167,7 @@ The `<!-- pettier... -->` start and end tags prevents this code from being broke
 
 ## Licensing and Attribution
 
-This repository is licensed under the [MIT License]. You are generally free to reuse or extend upon this code as you see fit; just include the original copy of the license (which is preserved when you fork this repo). While it's not necessary, we'd love to hear from you if you do use this template, and how we can improve it for future use!
+This repository is licensed under the [MIT License]. You are generally free to reuse or extend upon this code as you see fit; just include the original copy of the license (which is preserved when you fork this repo). 
 
 The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party [starter workflows]. A copy of their MIT License is available in [actions/starter-workflows].
 
