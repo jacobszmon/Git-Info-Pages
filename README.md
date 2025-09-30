@@ -57,6 +57,6 @@
 **Sadie**:
 
 **Samuel:** 
-- The Git Life Cycle | Started: 6:23PM Sept.30 |
+- The Git Life Cycle | Finished: 6:23PM Sept.30 |
 
 **Jake:** 
