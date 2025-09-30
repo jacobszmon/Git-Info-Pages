@@ -90,6 +90,8 @@ There are four states that files can go through during the Git Life Cycle:
 
 - Modified
 
+![The Git Life Cycle](lifecycle.png)
+
 ### Untracked
 
 When a file is initialized, it is first **untracked**.
@@ -109,3 +111,13 @@ When a change is made to an unmodified file, it is considered modified. Once a f
 When it is staged, the file is tracked by Git and ready to be committed.
 
 A file that is **untracked** or **modified** cannot be committed to a repository. Once said file is added to the staging area, it is considered **staged**.
+
+## Sources & Additional Links
+
+[Picture Source](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
+
+[Git Life Cycle](https://www.geeksforgeeks.org/git/git-life-cycle).
+
+[Stages in Git Life Cycle](https://www.toolsqa.com/git/git-life-cycle).
+
+[Git Life Cycle Diagram](https://www.tutorialspoint.com/git/git_life_cycle.htm).
