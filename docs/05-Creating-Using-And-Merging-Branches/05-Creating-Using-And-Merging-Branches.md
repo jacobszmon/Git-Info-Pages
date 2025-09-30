@@ -54,3 +54,24 @@ git checkout -b <branch-name>
 ```
 
 The fastest way to create and switch branches.
+
+## Merging Branches
+
+Branching allows for isolated development, and merging brings those developments
+back into the main timeline.
+
+Let's say we've been working and committing to an experimental branch and we want to merge those commits back into main:
+
+```
+git checkout main
+git merge experimental
+```
+
+Merging will bring all the commits made in the separate branch back to main and update the state of the project like it was in the branch, while also linking it with any additional commits made in main.
+
+## Sources & Additional Links
+[Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531990/View).
+
+[Branches in a Nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell).
+
+[Basic Branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
