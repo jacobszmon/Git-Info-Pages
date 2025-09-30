@@ -77,3 +77,35 @@ You are able to include a commit messsage as you commit your files to explain / 
 
 git commit -m <INSERT-COMMIT-MESSAGE-HERE>
 ```
+
+## Files
+
+There are four states that files can go through during the Git Life Cycle:
+
+- Untracked
+
+- Staged
+
+- Unmodified
+
+- Modified
+
+### Untracked
+
+When a file is initialized, it is first **untracked**.
+
+### Unmodified
+
+Once the files are committed, the metadata is saved to Git and since that version of the file is saved, it is now **unmodified**.
+
+Once you edit the file and make changes, it becomes **modified**.
+
+### Modified
+
+When a change is made to an unmodified file, it is considered modified. Once a file is modified, it needs to be **staged** once more before it can be committed.
+
+### Staged
+
+When it is staged, the file is tracked by Git and ready to be committed.
+
+A file that is **untracked** or **modified** cannot be committed to a repository. Once said file is added to the staging area, it is considered **staged**.
