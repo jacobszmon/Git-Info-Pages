@@ -13,7 +13,6 @@ Git tracks and saves the metadata of files in its directory as you use Git for v
 
 The Git Life Cycle is the different stages that files goes through within the directory.
 
-
 ## Table of Contents
 {: .no_toc }
 
