@@ -48,7 +48,7 @@
 - Other Interesting/Useful Git Topics
 
 ## Doing
-**Samuel:** 
-- Creating, Using, and Merging Branches | Started: 6:43PM Sept.30 |
 
 ## Done
+**Samuel:** 
+- Creating, Using, and Merging Branches | Finished: 6:58PM Sept.30 |
