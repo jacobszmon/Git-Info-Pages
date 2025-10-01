@@ -33,7 +33,6 @@
 
 **Jake:** 
 - Undoing in Git with:
-    - Checkout
     - Reset
     - Revert
     - Clean 
@@ -52,6 +51,7 @@
 **Samuel:** 
 
 **Jake:** 
+- Checkout | Started 9:42PM Sept.30 |
 
 ## Done
 **Sadie**:
