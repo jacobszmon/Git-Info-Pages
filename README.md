@@ -57,6 +57,6 @@
 
 **Samuel:** 
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
-- Pushing and Pulling | Started: 9:41PM Sept.30 |
+- Pushing and Pulling | Finished: 9:46PM Sept.30 |
 
 **Jake:** 
