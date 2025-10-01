@@ -9,7 +9,6 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 ## To-Do List
 ### To-Do
 **Sadie:**
-- Tags
   
 **Samuel:** 
 - Creating, Using, and Merging Branches
@@ -46,6 +45,7 @@ Git Fundamentals (Started Sept 30 at 8:20 finished Sept 30 at 9:50)
   - Initializing a Repo (Started Sept 30th at 9:25 finished Sept 30 at 9:45)
   - Status, Log and Diff (Started Sept 30th at 9:30 finished Sept 30 at 9:45)
   - Using a Git Ignore File (Started Sept 30th at 9:45 finished Sept 30 at 9:50)
+  - Tags (Started Sept 30th at 9:50 finished Sept at 10:00)
 
 
 **Samuel:** 
@@ -61,4 +61,3 @@ Git Fundamentals (Started Sept 30 at 8:20 finished Sept 30 at 9:50)
 - Reset | Started 10:00PM Sept.30 | Finished: 10:07PM Sept.30 |
 - Revert | Started 10:10PM Sept.30 | Finished: 10:17PM Sept.30 |
 - Clean | Started 10:20PM Sept.30 | Finished: 10:26PM Sept.30 |
-
