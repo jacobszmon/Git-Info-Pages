@@ -11,7 +11,7 @@ nav_order: 2
 
 Pushing and Pulling are the two main commands to using a remote repository.
 
-This module will teach you the GitHub workflow and also the best practices of pushing and pulling.
+This module will teach you how to use both of these commands, and best practices for pushing and pulling.
 
 ## Table of Contents
 {: .no_toc }
@@ -33,17 +33,15 @@ Once you have your local and remote repository set up, you can **push** and **pu
 
 ## Pushing
 
-When you want to send your commits of the local repository to GitHub:
+When you want to send commits from your local repository to GitHub:
 
 ```
 git push origin <INSERT-YOUR-BRANCH-NAME>
 ```
 
-With this command your local commits on the repository will be sent to the GitHub repository.
-
 This links all your changes to the remote repository, but not your future changes, you must push whenever you wish to send a change.
 
-Think of it as making documents that you then fax over to your office.
+Think of it as making a document that you then fax over to your office.
 
 ## Pulling
 
@@ -70,7 +68,7 @@ Common times people push:
 
 Common times people pull:
 - Before beginning to work on the repository for the day.
-- If in a branch with a team, Whenever a push is made from another team member.
+- Whenever a push is made from another team member on the same branch.
 
 It is best to always pull before starting work and push everytime finishing work.
 
