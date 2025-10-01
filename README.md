@@ -13,8 +13,6 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 - Tags
   
 **Samuel:** 
-- Remote Repositories (subpages)
-    - Pushing and Pulling
 - Creating, Using, and Merging Branches
 - The How and Why of Team Git Workflow
     - Centralized Workflow
@@ -23,7 +21,6 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 
 **Jake:** 
 - Undoing in Git with: (subpages)
-    - Clean 
     - When to use the different strategies.
 - Resolving Merge Conflict
 - Stashing
@@ -38,6 +35,8 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 - Git Fundamentals. (Started 8:30)
   - Status, Log, and Diff (Started Sept 30 at 9:45)
 
+
+
 ## Done
 **Sadie**:
 - Bio 
@@ -48,14 +47,18 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 - Staging and Commit Files (started Sept 30 at 9:35 finished Sept 30 at 9:40)
  - Initializing a Repo (Started Sept 30th at 9:25 finished Sept 30 at 9:45)
 
+
 **Samuel:** 
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
 - Creating, Using, and Merging Branches | Finished: 6:58PM Sept.30 |
 - Remote Repositories | Finished: 9:24PM Sept. 30 |
     - Adding / Configuring a GitHub Remote | Finished: 9:36PM Sept.30 |
+    - Pushing and Pulling | Finished: 9:46PM Sept.30 |
 
 **Jake:** 
 - Undoing in Git with: | Finished: 9:17PM Sept.30 |
 - Checkout | Started 9:42PM Sept.30 | Finished 9:54PM Sept.30 |
 - Reset | Started 10:00PM Sept.30 | Finished: 10:07PM Sept.30 |
 - Revert | Started 10:10PM Sept.30 | Finished: 10:17PM Sept.30 |
+- Clean | Started 10:20PM Sept.30 | Finished: 10:26PM Sept.30 |
+
