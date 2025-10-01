@@ -16,15 +16,15 @@ Git workflows are methods or procedures that dictate how developers interact wit
 
 There are several popular workflows used by teams:
 
-Centralized Workflow
+**Centralized Workflow**
 - Perfect for small teams.
 - Each new feature updates the repository and keeps collaboration close.
 
-Feature Branch Workflow
+**Feature Branch Workflow**
 - Perfect for multiple feature developments
 - Main branch is kept clean and experimental branches are pulled when ready.
 
-Forking Workflow
+**Forking Workflow**
 - Perfect for open-source projects
 - Original repository is kept clean and a project maintainer controls which pull request can be pulled.
 
