@@ -35,7 +35,7 @@
 - Undoing in Git with:
     - Checkout
     - Reset
-    - Revert
+
     - Clean 
     - When to use the different strategies.
 - Resolving Merge Conflict
@@ -52,6 +52,7 @@
 **Samuel:** 
 
 **Jake:** 
+- Revert | Started 10:10PM Sept.30 |
 
 ## Done
 **Sadie**:
