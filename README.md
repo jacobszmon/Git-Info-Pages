@@ -40,7 +40,6 @@
     - When to use the different strategies.
 - Resolving Merge Conflict
 - Stashing
-- OTHER USEFUL TOPIC: Pull Requests (Under: The How and Why of Team Git Workflow)
 - Review Collaborator Pull Requests
 
 **Any**
@@ -52,6 +51,7 @@
 **Samuel:** 
 
 **Jake:** 
+- OTHER USEFUL TOPIC: Pull Requests (Under: The How and Why of Team Git Workflow) | Started 11:37PM Sept.30 |
 
 ## Done
 **Sadie**:
