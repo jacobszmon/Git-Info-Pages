@@ -37,7 +37,6 @@
     - Reset
     - Revert
     - Clean 
-    - When to use the different strategies.
 - Resolving Merge Conflict
 - Stashing
 - OTHER USEFUL TOPIC: Pull Requests (Under: The How and Why of Team Git Workflow)
@@ -52,6 +51,7 @@
 **Samuel:** 
 
 **Jake:** 
+- When to use the different strategies. | Started 10:30PM Sept.30 |
 
 ## Done
 **Sadie**:
