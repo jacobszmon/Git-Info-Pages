@@ -51,7 +51,7 @@ Quality commit messages contribute to:
 - **Traceability**: Commit messages clarify code history and aid in debugging.
 - **Collaboration**: They help others understand the intentions behind changes.
 - **Documentation**: They act as a form of source code documentation.
-- **Change Management:**: "Change Logs" based on commits are often shipped with
+- **Change Management:** "Change Logs" based on commits are often shipped with
 each release.
 
 **Examples of Good Commit Messages:**
