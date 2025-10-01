@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Home
 nav_order: 1
 ---
@@ -20,37 +20,27 @@ When working on a project it is best to have a history of that project you can a
 
 **Version Control** also known as **revision control** or **source control**, is the management of changes to documents like computer programs. CTRL-Z is the simplest form of version control
 
-##### Some documents have more advanced version control built-in
+**Some documents have more advanced version control built-in** 
 - Microsoft Word has a "Track Changes" feature.
 - Google Docs automatically tracks file changes over.
-- You can see the edit history of all Wikipedia articles.
+- You can see the edit history of all Wikipedia articles. [(Here's the history of the version control article.)](https://en.wikipedia.org/w/index.php?title=Version_control&action=history)
 
-[(Here's the history of the version control article.)](https://en.wikipedia.org/w/index.php?title=Version_control&action=history)
+
 # What is Git?
 ## Version Control with Git 
-- Git is a free and open source distributed version
-control system.
-- Git helps us keep track of the changes to our
-source code over the lifespan of a project.
-- When combined with cloud version control sites
-like GitHub or GitLab, we can use git to
-collaborate with others remotely.
+- Git is a free and open source distributed version control system.
+- Git helps us keep track of the changes to our source code over the lifespan of a project.
+- When combined with cloud version control sites like GitHub or GitLab, we can use git to collaborate with others remotely.
 
 
 ## Why Git?
-- With Git, you can make a "commit", or a save point, as often as you'd like.
-- You can also go back to previous commits. This takes the pressure off of you while
-you're working.
-- Commit often and commit early, and you'll never have that gut sinking feeling of
-overwriting or losing changes.
-- Allows us to work offline if necessarily and synchronize with a distributed team.
+With Git, you can make a "commit", or a save of your repo, as often as you'd like. You can also go back to previous commits. This takes the pressure off of you while you're working. When you commit often and commit early you'll never have that gut sinking feeling of overwriting or losing changes. Git Allows us to work offline if necessary and synchronize with a distributed team.
 
 ## Why Not Git?
-**Downsides to working with git in game development:** 
+## Downsides to working with git in game development:
 - Not especially user friendly for non-developers.
 - No built-in support for large repos, although the [Git LFS](https://git-lfs.com/) add-on exists.
-- No built-in support for locking binary assets. (Locking can be enabled with Git
-LFS.)
+- No built-in support for locking binary assets. (Locking can be enabled with Git LFS.)
 
 ### Git Resources 
 - [Git Guide](https://github.com/git-guides) - Official git Learning Guides from the folks at GitHub.
