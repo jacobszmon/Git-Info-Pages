@@ -11,7 +11,7 @@ nav_order: 3
 
 The **Forking Workflow** is often used for open source projects. 
 
-In this workflow each developer gets not only their own local repository, but also a server-side copy of the project.
+In this workflow, each developer gets not only their own local repository, but also a server-side copy of the project.
 
 This allows for third-parties to work on a project without giving access to write on the original repository.
 
@@ -25,22 +25,16 @@ This allows for third-parties to work on a project without giving access to writ
 
 ## Strengths & Weaknesses of the Forking Workflow
 
-These are the strengths and weaknesses of the Feature Branch Workflow.
-
-Strengths:
+**Strengths:**
 - Developers push to their own server-side repositories.
 - Changes are shared via pull requests from their personal public repository.
 - The project maintainer has the final say on what is merged into the official repository.
 
-Weaknesses:
+**Weaknesses:**
 - Difficult to see all active / inactive branches.
 - Collaboration is trickier.
 
-_**Note:** This workflow is sometimes called [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow)._
-
 ## Life Cycle of Forking Workflow
-
-Works like the Feature Branch, except:
 
 1. **Forking:** Each team member creates a fork of the project on the git hosting service.
 
@@ -52,7 +46,9 @@ Works like the Feature Branch, except:
 
 5. **Pushing to Remote:** Local feature branches are pushed to the forked remote.
 
-6. **Requesting a Remote Merge:** Pull request are initiated to request merges from the remote fork to the official upstream repository.
+6. **Requesting a Remote Merge:** Pull requests are initiated to request merges from the remote fork to the official upstream repository.
+
+_**NOTE:** This workflow's life cycle is similar to the branching workflow, except instead of branching, you fork the repository._
 
 ## Source & Additional Links
 
