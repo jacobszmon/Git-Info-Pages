@@ -23,7 +23,7 @@ The Git Life Cycle is the different stages that files goes through within the di
 
 ## Directory
 
-There are three states that the directory goes through as you use Git Version Control.
+There are three locations files go through as you use Git Version Control.
 
 - Working Directory
 
@@ -33,7 +33,7 @@ There are three states that the directory goes through as you use Git Version Co
 
 ### Working Directory
 
-In a local directory/folder, awhen you use the `git init` command (creating a repository), you let git become aware of your files and keeps track of your **Working Directory**.
+In a local directory/folder, when you use the `git init` command (creating a repository), you let git become aware of your files and keeps track of your **Working Directory**.
 
 ```
 git init
@@ -41,7 +41,7 @@ git init
 
 The working directory is the current state of your repository's files on disk.
 
-As you add, delete or make changes on your files and other data types, the working directory saves all that data.
+As you add, delete or make changes to your files and other data types, the working directory saves all that data.
 
 ### Staging Area
 
