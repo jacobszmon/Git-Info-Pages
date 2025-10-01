@@ -51,7 +51,6 @@
 **Samuel:** 
 
 **Jake:** 
-- When to use the different strategies. | Started 10:30PM Sept.30 |
 
 ## Done
 **Sadie**:
@@ -60,3 +59,4 @@
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
 
 **Jake:** 
+- When to use the different strategies. | Started 10:30PM Sept.30 | Finished: 10:33PM Sept.30 |
