@@ -18,7 +18,7 @@ When working on a project it is best to have a history of that project you can a
 <!-- prettier-ignore-end -->
 # The Role of Version Control in Software Development    
 
-**Version Control** also known as **revision control** or **source control**, is the management of changes to documents like computer programs. CTRL-Z is the simplest form of version control
+**Version Control** also known as **revision control** or **source control**, is the management of changes to documents like computer programs. CTRL-Z is the simplest form of version control!
 
 **Some documents have more advanced version control built-in** 
 - Microsoft Word has a "Track Changes" feature.
@@ -34,10 +34,12 @@ When working on a project it is best to have a history of that project you can a
 
 
 ## Why Git?
-With Git, you can make a "commit", or a save of your repo, as often as you'd like. You can also go back to previous commits. This takes the pressure off of you while you're working. When you commit often and commit early you'll never have that gut sinking feeling of overwriting or losing changes. Git Allows us to work offline if necessary and synchronize with a distributed team.
+- With Git, you can make a "commit", or a save of your repo, as often as you'd like. 
+- You can also go back to previous commits. This takes the pressure off of you while you're working. 
+- When you commit often and commit early you'll never have that gut sinking feeling of overwriting or losing changes. 
+- Git Allows us to work offline if necessary and synchronize with a distributed team.
 
 ## Why Not Git?
-## Downsides to working with git in game development:
 - Not especially user friendly for non-developers.
 - No built-in support for large repos, although the [Git LFS](https://git-lfs.com/) add-on exists.
 - No built-in support for locking binary assets. (Locking can be enabled with Git LFS.)
