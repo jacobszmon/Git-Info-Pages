@@ -14,7 +14,7 @@ Remote repositories can interact with local repositories, allowing you to push y
 
 These pages contain the following information:
 
-- How to setup a remote repository
-- Connect local repository to the remote repository
+- How to setup a remote repository.
+- Connect local repository to the remote repository.
 - How to push and pull.
 - Cloning and Forking remote repositories to local machine.
