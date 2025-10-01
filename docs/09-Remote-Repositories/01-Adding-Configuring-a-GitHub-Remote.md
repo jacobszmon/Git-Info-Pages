@@ -11,9 +11,7 @@ nav_order: 1
 
 GitHub is one of many Git version control remote repository services that you can use.
 
-Using GitHub will give you access to remote repositories. 
-
-This allows for you to make changes to your repository from any machine as long as it is all linked to the same repository.
+Using a GitHub remote allows for you to make changes to your repository from any machine as long as it is all linked to the same repository.
 
 ## Table of Contents
 {: .no_toc }
@@ -25,7 +23,7 @@ This allows for you to make changes to your repository from any machine as long 
 
 ## Introduction to GitHub
 
-There are numerous ways with setting up a remote repository using Git and one of the options is **GitHub**.
+There are numerous ways of setting up a remote repository using Git and one of the options is **GitHub**.
 
 GitHub is a hosting platform for Git repositories owned by Microsoft. It provides a web-based interface to interact with your repositories and adds social and collaboration features.
 
