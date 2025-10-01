@@ -21,7 +21,9 @@ Clean is a git command that provides a potentially dangerous way to remove untra
 
 
 ## What is Clean?
-Clean offers a much more decisive way of undoing changes. Clean allows you to discard **untracked** files in your working directory. And because it's removing files that have no backups in previous commits, any affected file is permanently gone.
+Clean offers a much more decisive way of undoing changes. Clean allows you to discard **untracked** files in your working directory. 
+
+Because ```git clean``` removes files that have no backups in previous commits, any affected file is permanently gone.
 
 ⚠️ ***WARNING***: Using clean can be dangerous. The discarded changes cannot be recovered.
 
