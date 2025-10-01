@@ -25,7 +25,6 @@
     - Pushing and Pulling
 - Creating, Using, and Merging Branches
 - The How and Why of Team Git Workflow
-    - Centralized Workflow
     - Feature Branch Workflow
     - Forking Workflow
 
@@ -50,6 +49,7 @@
 **Sadie**:
 
 **Samuel:** 
+- Centralized Workflow | Started: 10:04PM Sept.30 |
 
 **Jake:** 
 
