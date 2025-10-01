@@ -40,7 +40,7 @@
 - Other Interesting/Useful Git Topics
 
 ## Doing
-- Tags
+
 
 ## Done
 - Home Page
@@ -52,3 +52,4 @@
     - Initializing a Repo(Started Sept 30 at 9:24 finished Sept 30 at 9:30)
     - Staging and Commit Files (started at 9:35 finished at 9:40)
     - Status, Log, and Diff (started at 9:35 finished at 9:40)
+- Tags (started Sept 30 at 9:40, finished at Sept 30 9:45)
