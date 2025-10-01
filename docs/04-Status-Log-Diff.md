@@ -22,6 +22,7 @@ To check the status of the repo for changes or additions:
 ```
 git status
 ```
+This will show you what files have and have not yet been staged.
 
 ## Log
 ### Git Commits and the Git Log
