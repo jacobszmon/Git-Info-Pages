@@ -9,8 +9,7 @@
 ### To-Do
 **Sadie:** 
   
-    - Staging and Commit Files
-    - Status, Log, and Diff
+
     - Using a Git Ignore File
 - Tags
   
@@ -44,7 +43,8 @@
 
 ## Doing
 - Git Fundamentals. (Started 8:30)
-      - Initializing a Repo(Started Sept 30 at 9:24)
+    - Staging and Commit Files (started at 9:35)
+    - Status, Log, and Diff (started at 9:35)
 
 
 ## Done
@@ -52,3 +52,4 @@
     - The role of version control in software development.
     - What is Git (including pros and cons).
 - Configuring Git (started Sept 30 at 8:45 finished Sept 30 at 9:20)
+- Initializing a Repo(Started Sept 30 at 9:24 finished Sept 30 at 9:30)
