@@ -51,7 +51,7 @@
 **Samuel:** 
 
 **Jake:** 
-- Checkout | Started 9:42PM Sept.30 |
+
 
 ## Done
 **Sadie**:
@@ -60,3 +60,4 @@
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
 
 **Jake:** 
+- Checkout | Started 9:42PM Sept.30 | Finished 9:54PM Sept.30 |
