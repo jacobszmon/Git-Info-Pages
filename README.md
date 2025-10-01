@@ -24,7 +24,6 @@
     - Adding / Configuring a GitHub Remote
     - Pushing and Pulling
 - Creating, Using, and Merging Branches
-- The How and Why of Team Git Workflow
     - Centralized Workflow
     - Feature Branch Workflow
     - Forking Workflow
@@ -50,6 +49,7 @@
 **Sadie**:
 
 **Samuel:** 
+- The How and Why of Team Git Workflow | Started: 9:50PM Sept.30 |
 
 **Jake:** 
 
