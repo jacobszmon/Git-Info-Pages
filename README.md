@@ -47,7 +47,6 @@
 **Sadie**:
 
 **Samuel:** 
-- Forking Workflow | Started: 10:14PM Sept.30 |
 
 **Jake:** 
 
@@ -58,5 +57,6 @@
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
 - Centralized Workflow | Finished: 10:10PM Sept.30 |
 - Feature Branch Workflow | Finished: 10:13PM Sept.30 |
+- Forking Workflow | Finished: 10:16PM Sept.30 |
 
 **Jake:** 
