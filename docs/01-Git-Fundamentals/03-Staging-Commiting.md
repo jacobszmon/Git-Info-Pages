@@ -7,7 +7,7 @@ nav_order: 3
 # Staging and committing
 {: .no_toc }
 
-Before we commit our files to our repo, we must first stage them. Before we commit our files we need to add them to the staging area. 
+In order to properly use version control you need to commit your repository. However before you commit we must add our files to the staging area
 ## Table of Contents
 {: .no_toc }
 
