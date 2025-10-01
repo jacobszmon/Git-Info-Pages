@@ -8,16 +8,10 @@
 ## To-Do List
 ### To-Do
 **Sadie:** 
-- Home Page
-    - The role of version control in software development.
-    - What is Git (including pros and cons).
-- Git Fundamentals.
-    - Configuring Git
-    - Initializing a Repo
-    - Staging and Commit Files
-    - Status, Log, and Diff
-    - Using a Git Ignore File
-- Tags
+    - Staging and Commit Files (8:45)
+    - Status, Log, and Diff (9:00)
+    - Using a Git Ignore File (9:15)
+- Tags (10:00)
   
 **Samuel:** 
 - Remote Repositories
@@ -48,14 +42,18 @@
 
 ## Doing
 **Sadie**:
-
+- Git Fundamentals. (started 8:15)
+    - Initializing a Repo (Started Sept 30 8:35)
 **Samuel:** 
 
 **Jake:** 
 
 ## Done
 **Sadie**:
-
+- Home Page (started Sept 30 at 8, finished Sept 30 at 8:30)
+    - The role of version control in software development.
+    - What is Git (including pros and cons).
+- Configuring Git (started Sept 30 at 8, Finished Sept 30 at 8:30)
 **Samuel:** 
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
 
