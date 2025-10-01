@@ -49,7 +49,6 @@
 **Sadie**:
 
 **Samuel:** 
-- Adding / Configuring a GitHub Remote | 9:29PM Sept.30 |
 
 **Jake:** 
 
@@ -58,5 +57,6 @@
 
 **Samuel:** 
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
+- Adding / Configuring a GitHub Remote | 9:36PM Sept.30 |
 
 **Jake:** 
