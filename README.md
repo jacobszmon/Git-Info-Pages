@@ -32,7 +32,7 @@
 
 
 **Jake:** 
-- Undoing in Git with:
+- Undoing in Git with: (subpages)
     - Checkout
     - Reset
     - Revert
@@ -53,6 +53,7 @@
 
 **Jake:** 
 
+
 ## Done
 **Sadie**:
 
@@ -60,3 +61,4 @@
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
 
 **Jake:** 
+- Undoing in Git with: | Finished: 9:17PM Sept.30 |
