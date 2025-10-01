@@ -1,5 +1,5 @@
 ---
-title: Configure Git.
+title: Configure Git
 parent: Git Fundamentals 
 nav_order: 1
 ---
