@@ -1,6 +1,6 @@
 ---
-title: History
-parent: Git-Fundamentals 
+title: Git Ignore
+parent: Git Fundamentals 
 nav_order: 5
 ---
 <!-- prettier-ignore-start -->
@@ -39,3 +39,8 @@ build/
 # Ignore all .pdf files in the doc/ folder and any of its sub-folders.
 doc/**/*.pdf
 ```
+
+Additional Links: 
+[Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531988/View)
+[Git Ignore GitHub Docs](https://docs.github.com/en/get-started/git-basics/ignoring-files)
+[Git Documentaion](https://git-scm.com/docs/gitignore)
