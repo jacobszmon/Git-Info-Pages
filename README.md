@@ -10,7 +10,7 @@
 **Sadie:** 
   
 
-    - Using a Git Ignore File
+
 - Tags
   
 **Samuel:** 
@@ -43,8 +43,7 @@
 
 ## Doing
 - Git Fundamentals. (Started 8:30)
-    - Staging and Commit Files (started at 9:35)
-    - Status, Log, and Diff (started at 9:35)
+    - Using a Git Ignore File (started Sept 30 at 9:38)
 
 
 ## Done
@@ -53,3 +52,5 @@
     - What is Git (including pros and cons).
 - Configuring Git (started Sept 30 at 8:45 finished Sept 30 at 9:20)
 - Initializing a Repo(Started Sept 30 at 9:24 finished Sept 30 at 9:30)
+    - Staging and Commit Files (started at 9:35 finished at 9:40)
+    - Status, Log, and Diff (started at 9:35 finished at 9:40)
