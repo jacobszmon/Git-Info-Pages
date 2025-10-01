@@ -39,7 +39,6 @@
     - Clean 
     - When to use the different strategies.
 - Resolving Merge Conflict
-- Stashing
 - OTHER USEFUL TOPIC: Pull Requests (Under: The How and Why of Team Git Workflow)
 - Review Collaborator Pull Requests
 
@@ -52,6 +51,7 @@
 **Samuel:** 
 
 **Jake:** 
+- Stashing | Started 10:47PM Sept.30 |
 
 ## Done
 **Sadie**:
