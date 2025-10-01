@@ -20,7 +20,6 @@
 - Tags
   
 **Samuel:** 
-- Remote Repositories
     - Adding / Configuring a GitHub Remote
     - Pushing and Pulling
 - Creating, Using, and Merging Branches
@@ -28,8 +27,6 @@
     - Centralized Workflow
     - Feature Branch Workflow
     - Forking Workflow
-
-
 
 **Jake:** 
 - Undoing in Git with:
@@ -50,6 +47,7 @@
 **Sadie**:
 
 **Samuel:** 
+- Remote Repositories | Started: 9:20PM Sept. 30 |
 
 **Jake:** 
 
