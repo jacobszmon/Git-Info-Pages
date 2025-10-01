@@ -1,5 +1,5 @@
 ---
-title: Adding / Configuring a GitHub Remote
+title: GitHub Remote
 parent: Remote Repositories
 nav_order: 1
 ---
