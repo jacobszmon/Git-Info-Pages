@@ -22,10 +22,6 @@ To check the status of the repo for changes or additions:
 ```
 git status
 ```
-Open Windows Explorer:
-```
-explorer.exe .
-```
 
 ## Log
 ### Git Commits and the Git Log
