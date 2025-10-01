@@ -39,6 +39,7 @@
     - Clean 
     - When to use the different strategies.
 - Resolving Merge Conflict
+- Stashing
 - OTHER USEFUL TOPIC: Pull Requests (Under: The How and Why of Team Git Workflow)
 - Review Collaborator Pull Requests
 
@@ -59,4 +60,3 @@
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
 
 **Jake:** 
-- Stashing | Started 10:47PM Sept.30 | Finished: 10:54PM Sept.30 |
