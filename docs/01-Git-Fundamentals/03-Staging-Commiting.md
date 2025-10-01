@@ -7,8 +7,7 @@ nav_order: 3
 # Staging and committing
 {: .no_toc }
 
-Before we commit our files to our repo, we must first stage them. This is were we give clear and concise commit messages. Commit messages benefit everyone, they allow group members and yourself to better understand what changes have been made.
-
+Before we commit our files to our repo, we must first stage them. Before we commit our files we need to add them to the staging area. 
 ## Table of Contents
 {: .no_toc }
 
