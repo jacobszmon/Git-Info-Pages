@@ -18,8 +18,7 @@ Before we create our repository we need to set up Git on our device. We need to 
 
 <!-- prettier-ignore-end -->
 ## Testing, Testing, 1, 2, 3...
-Start by launching Git Bash from the Windows Terminal.
-And try running:
+Start by launching Git Bash from the Windows Terminal. Try running:
 ``git --version``
 
 Let's make a folder to play in:
