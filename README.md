@@ -37,6 +37,7 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 **Sadie**:
 - Bio 
 - Home Page
+
   - The role of version control in software development.
   - What is Git (including pros and cons).
 
@@ -47,6 +48,7 @@ Git Fundamentals (Started Sept 30 at 8:20 finished Sept 30 at 9:50)
   - Status, Log and Diff (Started Sept 30th at 9:30 finished Sept 30 at 9:45)
   - Using a Git Ignore File (Started Sept 30th at 9:45 finished Sept 30 at 9:50)
 - Tags (Started Sept 30th at 9:50 finished Sept at 10:00)
+
 
 **Samuel:** 
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
