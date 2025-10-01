@@ -49,17 +49,18 @@ Now Git can add a current version of your working directory or a specific file t
 
 If you are working on a full project and need to save a lot of files at once, you can save the entire working directory by using `git add .` or a specific file with `git add <FILENAME>`.
 
+To add the working directory to the staging area:
 ```
-// To add the working directory to the staging area
-
 git add .
+```
 
-// To add a specific file
-
+To add a specific file:
+```
 git add <FILENAME>
+```
 
-// To add a file in a specific folder
-
+To add a file in a specific folder:
+```
 git add ..\<FILENAME>
 ```
 
@@ -71,9 +72,9 @@ Committing saves the metadata of the files in the staging area at that **current
 
 You are able to include a commit messsage as you commit your files to explain / describe the status of the repository during the time you made the commit.
 
-```
-// Commit staged files with a commit message.
 
+Commit staged files with a commit message:
+```
 git commit -m <INSERT-COMMIT-MESSAGE-HERE>
 ```
 
