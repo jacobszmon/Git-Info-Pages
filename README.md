@@ -51,7 +51,7 @@
 **Samuel:** 
 
 **Jake:** 
-    - Clean | Started 10:20PM Sept.30 |
+
 ## Done
 **Sadie**:
 
@@ -59,3 +59,4 @@
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
 
 **Jake:** 
+- Clean | Started 10:20PM Sept.30 | Finished: 10:26PM Sept.30 |
