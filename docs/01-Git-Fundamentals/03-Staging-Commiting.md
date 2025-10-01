@@ -54,12 +54,12 @@ Quality commit messages contribute to:
 - **Change Management:**: "Change Logs" based on commits are often shipped with
 each release.
 
-**Good Commit Messages:**
+**Examples of Good Commit Messages:**
 - "Enhance user experience by validating sign up form fields."
 - "Improve code readability by refactoring PlayerRegistrationService."
 - "Prevent null reference crashes by adding pointer checks in the teleport code."
 
-**Bad Commit Messages:**
+**Examples of Bad Commit Messages:**
 - "fixing stuff"
 - "Final version."
 - "asdf"
