@@ -49,7 +49,6 @@
 **Sadie**:
 
 **Samuel:** 
-- The How and Why of Team Git Workflow | Started: 9:50PM Sept.30 |
 
 **Jake:** 
 
@@ -58,5 +57,6 @@
 
 **Samuel:** 
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
+- The How and Why of Team Git Workflow | Finished: 9:56PM Sept.30 |
 
 **Jake:** 
