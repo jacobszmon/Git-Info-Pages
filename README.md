@@ -1,5 +1,6 @@
 ## Bios
 **Sadie**:
+Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development program. Some of my hobbies include reading, crocheting and playing puzzle games. I enjoy a good cup of coffee, tea or any chocolate beverage or snack. Some of my favorite foods are bread, chocolate, watermelon or meat. I also like my fair share of salmon, my dad makes the best salmon I have ever tasted.
 
 **Samuel**:
 
@@ -8,9 +9,8 @@
 ## To-Do List
 ### To-Do
 **Sadie:** 
-- Home Page
-    - The role of version control in software development.
-    - What is Git (including pros and cons).
+
+
 - Git Fundamentals.
     - Configuring Git
     - Initializing a Repo
@@ -54,8 +54,13 @@
 **Jake:** 
 
 
+
 ## Done
 **Sadie**:
+- Bio 
+- Home Page
+    - The role of version control in software development.
+    - What is Git (including pros and cons).
 
 **Samuel:** 
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
