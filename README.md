@@ -58,5 +58,4 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 - Checkout | Started 9:42PM Sept.30 | Finished 9:54PM Sept.30 |
 - Reset | Started 10:00PM Sept.30 | Finished: 10:07PM Sept.30 |
 - Revert | Started 10:10PM Sept.30 | Finished: 10:17PM Sept.30 |
->>>>>>> main
 
