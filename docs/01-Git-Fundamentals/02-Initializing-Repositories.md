@@ -7,7 +7,7 @@ nav_order: 2
 # Initializing Repositories 
 {: .no_toc }
 
-Creating repositories are the first and most important step when creating a new project. This is our main project in where we will store and edit files and the place where we will commit them. 
+Creating repositories are the first and most important step when creating a new project. This is where we'll be storing, editing, and ultimately committing our files.
 
 ## Table of Contents
 {: .no_toc }
