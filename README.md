@@ -25,7 +25,6 @@
     - Pushing and Pulling
 - Creating, Using, and Merging Branches
 - The How and Why of Team Git Workflow
-    - Forking Workflow
 
 
 
@@ -48,7 +47,7 @@
 **Sadie**:
 
 **Samuel:** 
-- Feature Branch Workflow | Started : 10:11PM Sept.30 |
+- Forking Workflow | Started: 10:14PM Sept.30 |
 
 **Jake:** 
 
@@ -58,5 +57,6 @@
 **Samuel:** 
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
 - Centralized Workflow | Finished: 10:10PM Sept.30 |
+- Feature Branch Workflow | Finished: 10:13PM Sept.30 |
 
 **Jake:** 
