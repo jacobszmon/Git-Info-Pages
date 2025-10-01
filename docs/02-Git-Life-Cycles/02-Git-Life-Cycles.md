@@ -98,6 +98,8 @@ There are four states that files can go through during the Git Life Cycle:
 
 When a file is initialized, it is first **untracked**.
 
+Git will not interact with any files unless directly told to, so untracked files are never committed or modified.
+
 ### Unmodified
 
 Once the files are committed, the metadata is saved to Git and since that version of the file is saved, it is now **unmodified**.
