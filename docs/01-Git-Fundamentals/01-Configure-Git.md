@@ -1,5 +1,5 @@
 ---
-title: History
+title: 01-Configure-Git.
 parent: Git-Fundamentals 
 nav_order: 1
 ---
@@ -19,7 +19,9 @@ Before we create our repository we need to set up Git on our device. We need to 
 <!-- prettier-ignore-end -->
 ## Testing, Testing, 1, 2, 3...
 Start by launching Git Bash from the Windows Terminal. Try running:
-``git --version``
+```
+git --version
+```
 
 Let's make a folder to play in:
 ```
@@ -33,6 +35,14 @@ Next, let's tell Git who you are. Git needs to know your name and email.
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 ```
+
 Let's also turn on helpful colourization.
-``git config --global color.ui auto``
+```
+git config --global color.ui auto
+```
 You only need to set these once!
+
+## Additional Links:
+[Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531988/View)
+[Getting Started with Git](https://git-scm.com/book/ms/v2/Getting-Started-First-Time-Git-Setup)
+[GitHub Docs](https://docs.github.com/en/get-started/git-basics/set-up-git)
