@@ -31,13 +31,15 @@ They allow you to work on different features or fixes without affecting the main
 
 ## Creating Branches
 
+This will create a new branch in your repository, creating a seperate "timeline" of your project.
+
 Creating a new branch:
 
 ```
 git branch <branch-name>
 ```
 
-This will create a new branch in your repository, creating a seperate "timeline" of your project.
+Switching branches will move you to the branch that you want to work in. Making commits in that branch keeps all your commits to that branch and nowhere else.
 
 Switching to a branch:
 
@@ -45,15 +47,11 @@ Switching to a branch:
 git checkout <branch-name>
 ```
 
-Switching branches will move you to the branch that you want to work in. Making commits in that branch keeps all your commits to that branch and nowhere else.
-
 Create and switch in a single command:
 
 ```
 git checkout -b <branch-name>
 ```
-
-The fastest way to create and switch branches.
 
 ## Merging Branches
 
