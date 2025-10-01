@@ -20,7 +20,6 @@
 - Tags
   
 **Samuel:** 
-- The Git Life Cycle
 - Remote Repositories
     - Adding / Configuring a GitHub Remote
     - Pushing and Pulling
@@ -48,6 +47,16 @@
 - Other Interesting/Useful Git Topics
 
 ## Doing
+**Sadie**:
 
+**Samuel:** 
+
+**Jake:** 
 
 ## Done
+**Sadie**:
+
+**Samuel:** 
+- The Git Life Cycle | Finished: 6:23PM Sept.30 |
+
+**Jake:** 
