@@ -20,7 +20,6 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 - Tags
   
 **Samuel:** 
-- The Git Life Cycle
 - Remote Repositories
     - Adding / Configuring a GitHub Remote
     - Pushing and Pulling
@@ -33,7 +32,7 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 
 
 **Jake:** 
-- Undoing in Git with:
+- Undoing in Git with: (subpages)
     - Checkout
     - Reset
     - Revert
@@ -48,11 +47,23 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 - Other Interesting/Useful Git Topics
 
 ## Doing
+**Sadie**:
+
+**Samuel:** 
+
+**Jake:** 
 
 
 
 ## Done
+**Sadie**:
 - Bio 
 - Home Page
     - The role of version control in software development.
     - What is Git (including pros and cons).
+
+**Samuel:** 
+- The Git Life Cycle | Finished: 6:23PM Sept.30 |
+
+**Jake:** 
+- Undoing in Git with: | Finished: 9:17PM Sept.30 |
