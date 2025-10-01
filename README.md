@@ -33,7 +33,7 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 ## Doing
 
 - Git Fundamentals. (Started 8:30)
-  - Status, Log, and Diff (Started Sept 30 at 9:45)
+ 
 
 
 
@@ -46,6 +46,7 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 - Configuring Git (started Sept 30 at 8:45 finished at Sept 30th 9:20)
 - Staging and Commit Files (started Sept 30 at 9:35 finished Sept 30 at 9:40)
  - Initializing a Repo (Started Sept 30th at 9:25 finished Sept 30 at 9:45)
+ - Status, Log, and Diff (Started Sept 30 at 9:45 finished Sept 30 at 9:50)
 
 
 **Samuel:** 
