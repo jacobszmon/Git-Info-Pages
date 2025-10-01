@@ -8,11 +8,6 @@
 ## To-Do List
 ### To-Do
 **Sadie:** 
-- Home Page
-    - The role of version control in software development.
-    - What is Git (including pros and cons).
-- Git Fundamentals.
-    - Configuring Git
     - Initializing a Repo
     - Staging and Commit Files
     - Status, Log, and Diff
@@ -48,6 +43,10 @@
 - Other Interesting/Useful Git Topics
 
 ## Doing
-
+- Git Fundamentals.
+    - Configuring Git
 
 ## Done
+- Home Page
+    - The role of version control in software development.
+    - What is Git (including pros and cons).
