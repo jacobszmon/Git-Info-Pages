@@ -39,9 +39,9 @@ In a local directory/folder, when you use the `git init` command (creating a rep
 git init
 ```
 
-The working directory is the current state of your repository's files on disk.
+The working directory is the current state of the local folder you are working on.
 
-As you add, delete or make changes to your files and other data types, the working directory saves all that data.
+ It changes as you add, delete or make changes to your files.
 
 ### Staging Area
 
