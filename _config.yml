@@ -1,11 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Git Info Pages
+description: A collection of pages containing useful information on various Git topics
 theme: just-the-docs
 
-url: https://StungEye-RRC.github.io/Just-The-Docs-Template
+url: https://jacobszmon.github.io/Git-Info-Pages
 
 aux_links:
-  Template Repository: https://github.com/StungEye-RRC/Just-The-Docs-Template
+  Template Repository: https://github.com/jacobszmon/Git-Info-Pages
 
 sass: # Added to silence a number of warning triggered during the build process.
   quiet_deps: true # https://github.com/just-the-docs/just-the-docs/issues/1541
