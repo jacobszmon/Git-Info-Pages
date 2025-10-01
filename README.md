@@ -1,4 +1,4 @@
-## Bio's
+## Bios
 **Sadie**
 Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development program. Some of my hobbies include reading, crocheting and playing puzzle games. I enjoy a good cup of coffee, tea or any chocolate beverage or snack. Some of my favorite foods are bread, chocolate, watermelon or meat. I also like my fair share of salmon, my dad makes the best salmon I have ever tasted.
 
