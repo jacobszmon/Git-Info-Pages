@@ -58,3 +58,31 @@ If your repository is not updated to the current state of the remote repository,
 It is best practice to pull before pushing to avoid merge conflicts.
 
 **Important:** If you made any commits on your local repository before pulling, you may run into **merge conflicts** that you have to resolve.
+
+## When To Push and Pull
+
+There are multiple philosophies that people follow when pushing and pulling.
+
+Common times people push:
+
+- After every commit.
+
+- If in a branch with a team, alternating with team members.
+
+- Before closing the repository for the day.
+
+Common times people pull:
+
+- Before beginning to work on the repository for the day.
+
+- If in a branch with a team, Whenever a push is made from another team member.
+
+It is best to always pull before starting work and push everytime finishing work.
+
+## Sources & Additional Links
+
+[Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531990/View).
+
+[Pushing Commits to a remote repository](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository).
+
+[Getting changes from a remote repository](https://docs.github.com/en/get-started/using-git/getting-changes-from-a-remote-repository).
