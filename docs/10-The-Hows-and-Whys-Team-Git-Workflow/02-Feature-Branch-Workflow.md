@@ -9,11 +9,11 @@ nav_order: 2
 # Feature Branch Workflow
 {: .no_toc }
 
-The **Feature Branch Workflow** is about working feature development or bug fixes on dedicated branches for each feature / fix.
+The **Feature Branch Workflow** is about working on feature development or bug fixes on dedicated branches for each feature / fix.
 
-Team members are divided to work on each feature in those branches and minimizes merge conflicts.
+Team members are divided to work on each feature in those branches and minimize merge conflicts.
 
-The main branch is always kept clean and branches are only pulled into main when it is finished.
+The main branch is always kept clean, and branches are only pulled into the main when it is finished.
 
 ## Table of Contents
 {: .no_toc }
@@ -25,14 +25,12 @@ The main branch is always kept clean and branches are only pulled into main when
 
 ## Strengths & Weaknesses of the Feature Branch Workflow
 
-These are the strengths and weaknesses of the Feature Branch Workflow.
-
-Strengths:
+**Strengths:**
 - Isolates new development from the main branch.
 - Makes it easy to discard experimental changes.
 - Facilitates code review via pull requests.
 
-Weaknesses:
+**Weaknesses:**
 - Not all developers are updated on each branch when working with multiple feature branches.
 - Unnecessary Merge Conflicts may arise.
 - Long branches require long reviews.
@@ -47,11 +45,11 @@ _**Note:** This workflow is sometimes called [GitHub Flow](https://docs.github.c
 
 3. **Pushing to Remote:** Completed and resolved branches are then pushed.
 
-4. **Requesting a Remote Merge:** A pull request is next initiated on the git hosting service (example; GitHub).
+4. **Requesting a Remote Merge:** A pull request is next initiated on the git hosting service (example: GitHub).
 
 5. **Reviewing:** One or more team members review the pull request before merging it into the main remote branch.
 
-_**Note:** Pull requests can be sent back unmerged if rework is deamed necessary._
+_**Note:** Pull requests can be sent back unmerged if rework is deemed necessary._
 
 ## Source & Additional Links
 
