@@ -1,6 +1,6 @@
 ---
-title: History
-parent: Git-Fundamentals 
+title: Initializing Repositories
+parent: Git Fundamentals 
 nav_order: 2
 ---
 <!-- prettier-ignore-start -->
@@ -19,8 +19,14 @@ Creating repositories are the first and most important step when creating a new 
 
 To bring a new project **under control** we must first initialize the repository (the repo)
 from within the project's root folder:
-To initialize a new git repo from the command prompt: ``git init .``
+To initialize a new git repo from the command prompt: 
+```
+git init .
+```
 
 Note: Git defaults to using the word "master" ([as in "master copy" or "master recording"](https://git.github.io/rev_news/2020/07/29/edition-65/)) for
-the main branch, but we can change this: ``git branch -m main``
+the main branch, but we can change this:
+```
+git branch -m main
+```
 
