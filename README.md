@@ -22,7 +22,6 @@
 **Samuel:** 
 - Remote Repositories
     - Adding / Configuring a GitHub Remote
-    - Pushing and Pulling
 - Creating, Using, and Merging Branches
 - The How and Why of Team Git Workflow
     - Centralized Workflow
@@ -58,5 +57,6 @@
 
 **Samuel:** 
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
+- Pushing and Pulling | Started: 9:41PM Sept.30 |
 
 **Jake:** 
