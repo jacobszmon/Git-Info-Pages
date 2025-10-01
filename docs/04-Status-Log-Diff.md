@@ -1,5 +1,5 @@
 ---
-title: History
+title: Status Log and Diff
 parent: Git-Fundamentals 
 nav_order: 4
 ---
@@ -18,18 +18,22 @@ Status, Log and Diff are all git commands that help the user manage their projec
 
 <!-- prettier-ignore-end -->
 ## Checking Your Repo's Status
+To check the status of the repo for changes or additions:
 ```
-# To check the status of the repo for changes or additions:
 git status
-# Open Windows Explorer:
-explorer.exe .
-# And then create a readme.md file.
 ```
+Open Windows Explorer:
+```
+explorer.exe .
+```
+And then create a readme.md file.
 
 ## Log
 ### Git Commits and the Git Log
 Commits can be reviewed by using:
-``git log``
+```
+git log
+```
 Each entry in the log shows:
 - The commit hash.
 - Who made the commit.
@@ -43,14 +47,21 @@ that uniquely identify each commit.
 
 ## Diff 
 ### What's the Difference
+To compare the differences between the current files and the last commit:
 ```
-#To compare the differences between the current files and the last commit:
 git diff
-
-#We can diff specific files:
+```
+We can diff specific files:
+```
 git diff secret_plans.txt
-
-#Or specific folders (and their sub-folders):
+```
+Or specific folders (and their sub-folders):
+```
 git diff ./textfiles/plans
 ```
 
+Addtitional Notes: 
+[Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531988/View)
+[Git Diff Documentation](https://git-scm.com/docs/git-diff)
+[Git Status Documentation](https://git-scm.com/docs/git-status)
+[Git Info Documentation](https://git-scm.com/docs/git)
