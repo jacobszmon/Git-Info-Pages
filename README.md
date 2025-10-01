@@ -52,7 +52,6 @@
 **Samuel:** 
 
 **Jake:** 
-- Reset | Started 10:00PM Sept.30 |
 
 ## Done
 **Sadie**:
@@ -61,3 +60,4 @@
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
 
 **Jake:** 
+- Reset | Started 10:00PM Sept.30 | Finished: 10:07PM Sept.30 |
