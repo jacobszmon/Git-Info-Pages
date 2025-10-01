@@ -48,13 +48,14 @@ Quality commit messages contribution to:
 - **Change Management:** - "Change Logs" based on commits are often shipped with
 each release.
 
+#### Good Commit Messages:
+- Enhance user experience by validating sign up form fields.
+- Improve code readability by refactoring PlayerRegistrationService.
+- Prevent null reference crashes by adding pointer checks in the teleport code.
+
 #### Bad Commit Messages:
 - fixing stuff
 - Final version.
 - asdf
 
-#### Good Commit Messages:
-- Enhance user experience by validating sign up form fields.
-- Improve code readability by refactoring PlayerRegistrationService.
-- Prevent null reference crashes by adding pointer checks in the teleport code.
 
