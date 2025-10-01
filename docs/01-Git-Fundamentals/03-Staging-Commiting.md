@@ -7,7 +7,7 @@ nav_order: 3
 # Staging and committing
 {: .no_toc }
 
-In order to properly use version control you need to commit your repository. However before you commit we must add our files to the staging area
+In order to properly use version control you need to commit your repository. However before you commit we must add our files to the staging area.
 ## Table of Contents
 {: .no_toc }
 
@@ -60,9 +60,9 @@ each release.
 - "Prevent null reference crashes by adding pointer checks in the teleport code."
 
 **Examples of Bad Commit Messages:**
-- "fixing stuff"
+- "fixing stuff."
 - "Final version."
-- "asdf"
+- "asdf."
 
 
 Addition Notes:
