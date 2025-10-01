@@ -43,8 +43,8 @@
 - Other Interesting/Useful Git Topics
 
 ## Doing
-- Git Fundamentals.
-    - Configuring Git
+- Git Fundamentals. (Started 8:30)
+    - Configuring Git (started at 8:45)
 
 
 ## Done
