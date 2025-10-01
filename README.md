@@ -8,9 +8,7 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 
 ## To-Do List
 ### To-Do
-**Sadie:** 
-    
-    - Staging and Commit Files
+**Sadie:**
     - Status, Log, and Diff
     - Using a Git Ignore File
 - Tags
@@ -41,14 +39,15 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 - Git Fundamentals. (Started 8:30)
     - Initializing a Repo (Started Sept 30th at 9:25)
 
-
 ## Done
 **Sadie**:
 - Bio 
 - Home Page
     - The role of version control in software development.
     - What is Git (including pros and cons).
-- Configuring Git (started at 8:45 finished at Sept 30th 9:20)
+- Configuring Git (started Sept 30 at 8:45 finished at Sept 30th 9:20)
+- Staging and Commit Files (started Sept 30 at 9:35 finished Sept 30 at 9:40)
+
 **Samuel:** 
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
 - Creating, Using, and Merging Branches | Finished: 6:58PM Sept.30 |
@@ -60,3 +59,4 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 - Checkout | Started 9:42PM Sept.30 | Finished 9:54PM Sept.30 |
 - Reset | Started 10:00PM Sept.30 | Finished: 10:07PM Sept.30 |
 - Revert | Started 10:10PM Sept.30 | Finished: 10:17PM Sept.30 |
+
