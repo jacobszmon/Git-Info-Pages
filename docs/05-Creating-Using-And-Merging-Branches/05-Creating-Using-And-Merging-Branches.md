@@ -11,7 +11,7 @@ nav_order: 5
 
 Working with multiple people or making different types of changes can lead to chaos if it is unorganized.
 
-**Branches** allow for creating multiple changes on the repository.
+**Branches** allow for creating multiple changes on the repository for specific features while keeping them separate.
 
 These changes can then be brought into the main project through a merge.
 
