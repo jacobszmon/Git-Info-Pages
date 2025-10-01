@@ -29,29 +29,23 @@ Handy:[ Useful .gitignore templates for common languages and technologies.](http
 Exclude files and folders by create a ``.gitignore`` file in the project root:
 Ignore specific files.
 ```
+# This is a comment in the ignore file
 Thumbs.db
-```
-Wildcards: Ignore all .exe files.
-```
+
+#Wildcards: Ignore all .exe files.
 *.exe
-```
-Exception to wildcards: Do track the special.exe file.
-```
+
+#Exception to wildcards: Do track the special.exe file.
 !special.exe
-```
-Ignore all files in any folder called build.
-```
+
+#Ignore all files in any folder called build.
 build/
-```
-Ignore all .pdf files in the doc/ folder and any of its sub-folders.
-```
+
+#Ignore all .pdf files in the doc/ folder and any of its sub-folders.
 doc/**/*.pdf
 ```
 
-Commenting in ignore files
-```
-# this is a comment
-```
+
 Additional Links: 
 
 [Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531988/View)
