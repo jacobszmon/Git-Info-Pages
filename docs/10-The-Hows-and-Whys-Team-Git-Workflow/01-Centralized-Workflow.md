@@ -13,7 +13,7 @@ The **Centralized Workflow** is about working on a single branch and publishing 
 
 All team members are not separated by branches but instead follow a cycle of pushing, pulling and resolving merge conflicts.
 
-With a centralized workflow each team member is updated on every new change in the remote repository.
+With a centralized workflow, each team member is updated on every new change in the remote repository.
 
 ## Table of Contents
 {: .no_toc }
@@ -25,19 +25,17 @@ With a centralized workflow each team member is updated on every new change in t
 
 ## Strengths & Weaknesses of the Centralized Workflow
 
-These are the strengths and weaknesses of the Centralized Workflow.
-
-Strengths:
+**Strengths:**
 - Simple and similar to Subversion-style workflows.
 - Suitable for small teams and projects.
 
-Weaknesses:
+**Weaknesses:**
 - Not as powerful or flexible as other workflows.
 - Merging can be problematic.
 
 ## Life Cycle of Centralized Workflow
 
-1. Initialization: One team member creates the repository with an online remote.
+1. **Initialization:** One team member creates the repository with an online remote.
 
 2. **Cloning:** Each team member creates a local copy by "cloning" the remote.
 
