@@ -51,7 +51,6 @@
 **Samuel:** 
 
 **Jake:** 
-- Resolving Merge Conflict | Started 10:39PM Sept.30 |
 
 ## Done
 **Sadie**:
@@ -60,3 +59,4 @@
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
 
 **Jake:** 
+- Resolving Merge Conflict | Started 10:39PM Sept.30 | Finished: 10:44PM Sept.30 |
