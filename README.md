@@ -13,7 +13,6 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 **Samuel:** 
 
 **Jake:** 
-- Stashing
 - OTHER USEFUL TOPIC: Pull Requests (Under: The How and Why of Team Git Workflow)
 - Review Collaborator Pull Requests
 
@@ -60,4 +59,5 @@ Git Fundamentals (Started Sept 30 at 8:20 finished Sept 30 at 9:50)
 - Clean | Started 10:20PM Sept.30 | Finished: 10:26PM Sept.30 |
 - When to use the different strategies. | Started 10:30PM Sept.30 | Finished: 10:33PM Sept.30 |
 - Resolving Merge Conflict | Started 10:39PM Sept.30 | Finished: 10:44PM Sept.30 |
+- Stashing | Started 11:23PM Sept.30 | Finished: 11:26PM Sept.30 |
 
