@@ -33,7 +33,6 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 
 **Jake:** 
 - Undoing in Git with: (subpages)
-    - Checkout
     - Reset
     - Revert
     - Clean 
@@ -67,3 +66,5 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 
 **Jake:** 
 - Undoing in Git with: | Finished: 9:17PM Sept.30 |
+- Checkout | Started 9:42PM Sept.30 | Finished 9:54PM Sept.30 |
+
