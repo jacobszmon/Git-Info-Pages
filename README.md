@@ -47,7 +47,6 @@
 **Sadie**:
 
 **Samuel:** 
-- Remote Repositories | Started: 9:20PM Sept. 30 |
 
 **Jake:** 
 
@@ -56,5 +55,6 @@
 
 **Samuel:** 
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
+- Remote Repositories | Finished: 9:24PM Sept. 30 |
 
 **Jake:** 
