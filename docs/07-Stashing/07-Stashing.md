@@ -22,7 +22,7 @@ nav_order: 7
 
 Think of stashing like a magic toy box. 
 
-It allows a kid to instantly clean their room, and when they want to play again, all toys are returned to their former positions.
+With it, a kid can instantly clean their room, and when they want to play again, all toys are returned to their former positions.
 
 It allows you to temporarily store the state of your working directory, then restore that state when you need it.
 
@@ -32,18 +32,22 @@ Think of ```git stash``` as creating a stack of saved changes.
 
 You can stash multiple sets of changes and Git will store them in a LIFO (Last in, First Out) stack.
 
+The stash stack is **repository wide**, meaning a change stashed in one branch can be taken out of the stash in another branch.
+
 ## When to Stash
 
 - You want to switch branches, but you're in the middle of something and don't want to commit yet.
 - You need to pull changes, but you have uncommitted work.
 
 ## Stashing in Action
+This command stashes your changes, leaving you with a clean working directory.
 ```
 git stash
 ```
-This command stashes your changes, leaving you with a clean working directory.
 
 **Remember, it's only a temporary storage. Don't forget about your stashed changes!**
+
+
 ## Restoring Stashed Changes
 To restore stashed changes, use:
 
