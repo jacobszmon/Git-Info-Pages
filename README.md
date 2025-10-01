@@ -34,7 +34,7 @@
 **Jake:** 
 - Undoing in Git with:
     - Checkout
-    - Reset
+    
     - Revert
     - Clean 
     - When to use the different strategies.
@@ -52,6 +52,7 @@
 **Samuel:** 
 
 **Jake:** 
+- Reset | Started 10:00PM Sept.30 |
 
 ## Done
 **Sadie**:
