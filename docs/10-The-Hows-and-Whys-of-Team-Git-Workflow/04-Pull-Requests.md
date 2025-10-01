@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Pull Requests
-nav_order: 11
+parent: The How and Why of Team Git Workflow
+nav_order: 4
 ---
 
 <!-- prettier-ignore-start -->
@@ -35,18 +35,25 @@ Pull requests are initiated prior to merging one branch with another branch of a
 ## Creating Pull Requests
 
 Step by Step Guide:
-- Open the GitHub.com page for the repository.
-- Once there, open the "Pull Requests" tab.
-- Click the "New Pull Request" Button at the top right.
-- Once there, you'll see a dropdown menu labelled "base repository", click it and ensure that you've chosen the proper repository.
-- Now you should see two dropdowns labelled "base" and "compare". 
+1. Open the GitHub.com page for the repository.    
+
+2. Once there, open the "Pull Requests" tab.
+
+3. Click the "New Pull Request" Button at the top right.
+
+4. Once there, you'll see a dropdown menu labelled "base repository", click it and ensure that you've chosen the proper repository.
+
+5. Now you should see two dropdowns labelled "base" and "compare". 
     - Choose the branch you'd like to merge your branch into for "base".
     - Choose the branch you'd like to merge for "compare".
-- Hit the green "Create Pull Request" button.
-- Fill out Title and Description.
+    
+6. Hit the green "Create Pull Request" button.
+
+7. Fill out Title and Description.
     - Write a clear and concise Title for your request.
     - Write a description that clearly communicates the desired changes from your branch.
-- Once finished, press the "Create Pull Request" button once again, and your pull request is now finished.
+    
+8. Once finished, press the "Create Pull Request" button once again, and your pull request is now finished.
 
 
 
@@ -60,21 +67,21 @@ You will be prevented from creating a pull request if your branch can't be merge
 
 To resolve the conflict:
 
-- Locally checkout the `main` branch.
+1. Locally checkout the `main` branch.
 
-- Pull the latest changes into `main` from the remote.
+2. Pull the latest changes into `main` from the remote.
 
-- Checkout your branch. (The one you wanted to merge.)
+3. Checkout your branch. (The one you wanted to merge.)
 
-- Merge `main` into your branch.
+4. Merge `main` into your branch.
 
-- Resolve the conflicts using your editor or merge tool.
+5. Resolve the conflicts using your editor or merge tool.
 
-- Commit your changes to your branch.
+6. Commit your changes to your branch.
 
-- Push your branch to the remote.
+7. Push your branch to the remote.
 
-- Attempt to create the pull request again.
+8. Attempt to create the pull request again.
 
 ## Source & Additional Links
 
