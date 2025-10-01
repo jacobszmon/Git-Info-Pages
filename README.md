@@ -19,7 +19,6 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 **Jake:** 
 - Undoing in Git with: (subpages)
     - When to use the different strategies.
-- Resolving Merge Conflict
 - Stashing
 - OTHER USEFUL TOPIC: Pull Requests (Under: The How and Why of Team Git Workflow)
 - Review Collaborator Pull Requests
@@ -62,3 +61,4 @@ Git Fundamentals (Started Sept 30 at 8:20 finished Sept 30 at 9:50)
 - Reset | Started 10:00PM Sept.30 | Finished: 10:07PM Sept.30 |
 - Revert | Started 10:10PM Sept.30 | Finished: 10:17PM Sept.30 |
 - Clean | Started 10:20PM Sept.30 | Finished: 10:26PM Sept.30 |
+- Resolving Merge Conflict | Started 10:39PM Sept.30 | Finished: 10:44PM Sept.30 |
