@@ -36,7 +36,6 @@
     - Checkout
     - Reset
     - Revert
-    - Clean 
     - When to use the different strategies.
 - Resolving Merge Conflict
 - Stashing
@@ -52,7 +51,7 @@
 **Samuel:** 
 
 **Jake:** 
-
+    - Clean | Started 10:20PM Sept.30 |
 ## Done
 **Sadie**:
 
