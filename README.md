@@ -32,7 +32,7 @@
 
 
 **Jake:** 
-- Undoing in Git with:
+- Undoing in Git with: (subpages)
     - Checkout
     - Reset
     - Revert
@@ -52,6 +52,7 @@
 **Samuel:** 
 
 **Jake:** 
+- Undoing in Git with: | Started: 8:31 Sept.30 |
 
 ## Done
 **Sadie**:
