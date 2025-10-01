@@ -16,7 +16,6 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 - Tags
   
 **Samuel:** 
-- Remote Repositories
     - Adding / Configuring a GitHub Remote
     - Pushing and Pulling
 - Creating, Using, and Merging Branches
@@ -24,8 +23,6 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
     - Centralized Workflow
     - Feature Branch Workflow
     - Forking Workflow
-
-
 
 **Jake:** 
 - Undoing in Git with: (subpages)
@@ -56,9 +53,9 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 **Samuel:** 
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
 - Creating, Using, and Merging Branches | Finished: 6:58PM Sept.30 |
+- Remote Repositories | Finished: 9:24PM Sept. 30 |
 
 **Jake:** 
 - Undoing in Git with: | Finished: 9:17PM Sept.30 |
 - Checkout | Started 9:42PM Sept.30 | Finished 9:54PM Sept.30 |
-
 
