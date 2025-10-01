@@ -43,7 +43,7 @@ Each entry in the log shows:
 The 40 character hex numbers shown at the start of each entry are the SHA1 hashes
 that uniquely identify each commit.
 
-![a screen shot of an example of the commit message: Commit f2c87c8e (this hash is very long, as long as you have the first 8 digits you will be able to track it again) Author: Kyle Geske (userEmail) Date: Wed Sept 19 13:46:09 2018, (Commit message)"Added find_by and update_all to appropriate demo files"](docs/GitLogExample.png)
+![a screen shot of an example of the commit message: Commit f2c87c8e (this hash is very long, as long as you have the first 8 digits you will be able to track it again) Author: Kyle Geske (userEmail) Date: Wed Sept 19 13:46:09 2018, (Commit message)"Added find_by and update_all to appropriate demo files"](GitLogExample.png)
 
 ## Diff 
 ### What's the Difference
@@ -61,7 +61,11 @@ git diff ./textfiles/plans
 ```
 
 Addtitional Notes: 
+
 [Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531988/View)
+
 [Git Diff Documentation](https://git-scm.com/docs/git-diff)
+
 [Git Status Documentation](https://git-scm.com/docs/git-status)
+
 [Git Info Documentation](https://git-scm.com/docs/git)
