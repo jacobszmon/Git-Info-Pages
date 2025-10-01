@@ -54,7 +54,6 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 **Jake:** 
 
 
-
 ## Done
 **Sadie**:
 - Bio 
@@ -64,6 +63,7 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 
 **Samuel:** 
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
+- Creating, Using, and Merging Branches | Finished: 6:58PM Sept.30 |
 
 **Jake:** 
 - Undoing in Git with: | Finished: 9:17PM Sept.30 |
