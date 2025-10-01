@@ -20,7 +20,9 @@ Revert is a git command that provides a safe, public way to undo commits in a gi
 
 
 ## What is Revert?
-Revert creates a new commit that undoes changes from the specified commit, essentially performing a reverse commit. Reverting maintains history, which makes it a safe choice for undoing local commits and undoing commits pushed to a remote repository. You can think of it as a public undo, saying *"I made a mistake, but I want to keep a record of it."*
+Revert creates a new commit that undoes changes from the specified commit, essentially performing a reverse commit.
+
+Reverting maintains history, which makes it a safe choice for undoing local commits and undoing commits pushed to a remote repository. You can think of it as a public undo, saying *"I made a mistake, but I want to keep a record of it."*
 
 
 
