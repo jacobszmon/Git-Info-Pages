@@ -16,8 +16,7 @@ In order to properly use version control you need to commit your repository. How
 
 <!-- prettier-ignore-end -->
 ## Staging Files Before we Commit
-As we make changes to our code we **commit** the changes to our git repo.
-Before we can **commit** we must **add** new or changed files to a staging area.
+As we make changes to our code we **commit** the changes to our git repo. Before we can **commit** we must **add** new or changed files to a staging area.
 
 **Let's stage our new readme.md file:**
 ```
@@ -56,14 +55,14 @@ Quality commit messages contribute to:
 each release.
 
 **Good Commit Messages:**
-- Enhance user experience by validating sign up form fields.
-- Improve code readability by refactoring PlayerRegistrationService.
-- Prevent null reference crashes by adding pointer checks in the teleport code.
+- "Enhance user experience by validating sign up form fields."
+- "Improve code readability by refactoring PlayerRegistrationService."
+- "Prevent null reference crashes by adding pointer checks in the teleport code."
 
 **Bad Commit Messages:**
-- fixing stuff
-- Final version.
-- asdf
+- "fixing stuff"
+- "Final version."
+- "asdf"
 
 
 Addition Notes:
