@@ -30,8 +30,6 @@ There are several popular workflows used by teams:
 
 ## Collaborative Coding with Git and GitHub
 
-With Git and GitHub, multiple developers can work on the same project without stepping on each other's toes.
-
 Key concepts include:
 
 - Forking: Creating a personal remote copy of another user's remote repository.
