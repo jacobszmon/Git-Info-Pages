@@ -45,9 +45,11 @@ git revert B^..D
 ```
 If you only want a single revert commit: *(The -n stands for "no commit".)*
 ```
-git revert -n B^..D (cancel revert's automatic commit.)
+// cancel revert's automatic commit using -n
+git revert -n B^..D 
 
-git commit -m "Revert commits C through D inclusively." (then perform a commit manually to only commit once.)
+// then perform a commit manually to only commit once.
+git commit -m "Revert commits C through D inclusively." 
 ```
 
 ## Sources and Additional Links
