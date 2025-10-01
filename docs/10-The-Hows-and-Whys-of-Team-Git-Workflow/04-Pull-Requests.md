@@ -34,7 +34,7 @@ Pull requests are initiated prior to merging one branch with another branch of a
 
 ## Creating Pull Requests
 
-Step by Step Guide:
+**Step by Step Guide:**
 1. Open the GitHub.com page for the repository.    
 
 2. Once there, open the "Pull Requests" tab.
@@ -65,8 +65,7 @@ Step by Step Guide:
 
 You will be prevented from creating a pull request if your branch can't be merged.
 
-To resolve the conflict:
-
+**To resolve the conflict:**
 1. Locally checkout the `main` branch.
 
 2. Pull the latest changes into `main` from the remote.
