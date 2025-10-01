@@ -7,7 +7,7 @@ nav_order: 3
 # Staging and committing
 {: .no_toc }
 
-Before we commit our files to our repo, we must first stage them. This is were we give clear and concise commit messages. Commit messages benefit everyone, they allow group members and yourself to look at what changes you have made. This allows groups to track and manage commits. 
+Before we commit our files to our repo, we must first stage them. This is were we give clear and concise commit messages. Commit messages benefit everyone, they allow group members and yourself to better understand what changes have been made.
 
 ## Table of Contents
 {: .no_toc }
@@ -23,7 +23,9 @@ Before we can **commit** we must **add** new or changed files to a staging area.
 **Let's stage our new readme.md file:**
 ```
 git add readme.md
-#We could also use a period to stage all new or modified files:
+```
+We could also use a period to stage all new or modified files:
+```
 git add .
 ```
 
@@ -34,34 +36,38 @@ git add docs/textfiles/*.txt
 
 ## Committing Staged Files
 We **commit** our staged changes with a commit message.
-For complex changes, we can include a short title, followed by a long explaination:
-
 ``` 
 git commit -m "Your explanation of the changes goes here."
+```
+
+For complex changes, we can include a short title, followed by a long explaination:
+```
 git commit -m "Title" -m "Long description goes here .........."; 
 ```
 
 We can even [configure git to open a text editor of our choice using:](https://docs.github.com/en/get-started/getting-started-with-git/associating-text-editors-with-git)
-```
-git commit
-```
+
 
 ## Good Commit Messages are Crucial!
-Quality commit messages contribution to:
+Quality commit messages contribute to:
 - **Traceability**: Commit messages clarify code history and aid in debugging.
 - **Collaboration**: They help others understand the intentions behind changes.
 - **Documentation**: They act as a form of source code documentation.
-- **Change Management:** - "Change Logs" based on commits are often shipped with
+- **Change Management:**: "Change Logs" based on commits are often shipped with
 each release.
 
-#### Good Commit Messages:
+**Good Commit Messages:**
 - Enhance user experience by validating sign up form fields.
 - Improve code readability by refactoring PlayerRegistrationService.
 - Prevent null reference crashes by adding pointer checks in the teleport code.
 
-#### Bad Commit Messages:
+**Bad Commit Messages:**
 - fixing stuff
 - Final version.
 - asdf
 
 
+Addition Notes:
+[Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531988/View)
+[W3Schools Git Commit](https://www.w3schools.com/git/git_commit.asp)
+[Git Documetation](https://git-scm.com/docs/git-commit)
