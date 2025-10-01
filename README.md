@@ -48,10 +48,11 @@ Hello, my name is Sadie. I am a programmer in the Red River Game Development Pro
 - Other Interesting/Useful Git Topics
 
 ## Doing
-- Home Page
-    - The role of version control in software development.
-    - What is Git (including pros and cons).
+
 
 
 ## Done
 - Bio 
+- Home Page
+    - The role of version control in software development.
+    - What is Git (including pros and cons).
