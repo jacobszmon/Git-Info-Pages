@@ -47,6 +47,8 @@ The working directory is the current state of the local folder you are working o
 
 Now Git can add a current version of your working directory or a specific file to the **Staging Area**.
 
+Files in the working directory cannot be committed unless they are staged.
+
 If you are working on a full project and need to save a lot of files at once, you can save the entire working directory by using `git add .` or a specific file with `git add <FILENAME>`.
 
 To add the working directory to the staging area:
