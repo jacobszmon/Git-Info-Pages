@@ -51,7 +51,6 @@
 **Samuel:** 
 
 **Jake:** 
-- Stashing | Started 11:23PM Sept.30 |
 
 ## Done
 **Sadie**:
@@ -60,3 +59,4 @@
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
 
 **Jake:** 
+- Stashing | Started 11:23PM Sept.30 | Finished: 11:26PM Sept.30 |
