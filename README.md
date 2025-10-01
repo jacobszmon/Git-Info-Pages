@@ -11,10 +11,6 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 **Sadie:**
   
 **Samuel:** 
-- Creating, Using, and Merging Branches
-    - Centralized Workflow
-    - Feature Branch Workflow
-    - Forking Workflow
 
 **Jake:** 
 - Undoing in Git with: (subpages)
@@ -50,9 +46,12 @@ Git Fundamentals (Started Sept 30 at 8:20 finished Sept 30 at 9:50)
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
 - Creating, Using, and Merging Branches | Finished: 6:58PM Sept.30 |
 - Remote Repositories | Finished: 9:24PM Sept. 30 |
-    - Adding / Configuring a GitHub Remote | Finished: 9:36PM Sept.30 |
-    - Pushing and Pulling | Finished: 9:46PM Sept.30 |
+  - Adding / Configuring a GitHub Remote | Finished: 9:36PM Sept.30 |
+  - Pushing and Pulling | Finished: 9:46PM Sept.30 |
 - The How and Why of Team Git Workflow | Finished: 9:56PM Sept.30 |
+  - Centralized Workflow | Finished: 10:10PM Sept.30 |
+  - Feature Branch Workflow | Finished: 10:13PM Sept.30 |
+  - Forking Workflow | Finished: 10:16PM Sept.30 |
 
 
 **Jake:** 
