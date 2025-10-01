@@ -8,7 +8,7 @@ nav_order: 10
 
 Working with a team is a vital component of larger projects, but having too many cooks in the kitchen can lead to many issues.
 
-Git and Github allows for multiple developers to work on the same project without stepping on each other's shoes.
+Git and Github allow for multiple developers to work on the same project without stepping on each other's shoes.
 
 ## Overview of Git Workflows
 
@@ -26,7 +26,7 @@ There are several popular workflows used by teams:
 
 **Forking Workflow**
 - Perfect for open-source projects
-- Original repository is kept clean and a project maintainer controls which pull request can be pulled.
+- Original repository is kept clean and a project maintainer controls which pull request can be merged.
 
 ## Collaborative Coding with Git and GitHub
 
