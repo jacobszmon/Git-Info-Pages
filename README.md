@@ -52,7 +52,7 @@
 **Samuel:** 
 
 **Jake:** 
-- Revert | Started 10:10PM Sept.30 |
+
 
 ## Done
 **Sadie**:
@@ -61,3 +61,4 @@
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
 
 **Jake:** 
+- Revert | Started 10:10PM Sept.30 | Finished: 10:17PM Sept.30 |
