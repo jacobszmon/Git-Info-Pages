@@ -21,7 +21,6 @@
   
 **Samuel:** 
 - Remote Repositories
-    - Adding / Configuring a GitHub Remote
     - Pushing and Pulling
 - Creating, Using, and Merging Branches
 - The How and Why of Team Git Workflow
@@ -50,6 +49,7 @@
 **Sadie**:
 
 **Samuel:** 
+- Adding / Configuring a GitHub Remote | 9:29PM Sept.30 |
 
 **Jake:** 
 
