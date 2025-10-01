@@ -26,7 +26,6 @@ Open Windows Explorer:
 ```
 explorer.exe .
 ```
-And then create a readme.md file.
 
 ## Log
 ### Git Commits and the Git Log
@@ -34,16 +33,18 @@ Commits can be reviewed by using:
 ```
 git log
 ```
-Each entry in the log shows:
-- The commit hash.
-- Who made the commit.
-- When it was made.
-- The commit message.
+
 
 The 40 character hex numbers shown at the start of each entry are the SHA1 hashes
 that uniquely identify each commit.
 
 ![a screen shot of an example of the commit message: Commit f2c87c8e (this hash is very long, as long as you have the first 8 digits you will be able to track it again) Author: Kyle Geske (userEmail) Date: Wed Sept 19 13:46:09 2018, (Commit message)"Added find_by and update_all to appropriate demo files"](GitLogExample.png)
+
+Each entry in the log shows:
+- The commit hash.
+- Who made the commit.
+- When it was made.
+- The commit message.
 
 ## Diff 
 ### What's the Difference
