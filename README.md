@@ -51,7 +51,6 @@
 **Samuel:** 
 
 **Jake:** 
-- OTHER USEFUL TOPIC: Pull Requests (Under: The How and Why of Team Git Workflow) | Started 11:37PM Sept.30 |
 
 ## Done
 **Sadie**:
@@ -60,3 +59,4 @@
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
 
 **Jake:** 
+- OTHER USEFUL TOPIC: Pull Requests (Under: The How and Why of Team Git Workflow) | Started 11:37PM Sept.30 | Finished: 12:16AM Sept.30 |
