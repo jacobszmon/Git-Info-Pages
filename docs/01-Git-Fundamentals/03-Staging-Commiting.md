@@ -1,6 +1,6 @@
 ---
-title: History
-parent: Git-Fundamentals 
+title: Staging and Committing
+parent: Git Fundamentals 
 nav_order: 3
 ---
 <!-- prettier-ignore-start -->
@@ -21,12 +21,16 @@ As we make changes to our code we **commit** the changes to our git repo.
 Before we can **commit** we must **add** new or changed files to a staging area.
 
 **Let's stage our new readme.md file:**
-``git add readme.md``
-We could also use a period to stage all new or modified files:
-``git add .``
+```
+git add readme.md
+#We could also use a period to stage all new or modified files:
+git add .
+```
 
 Wilcards and sub-folders work too:
-``git add docs/textfiles/*.txt``
+```
+git add docs/textfiles/*.txt
+```
 
 ## Committing Staged Files
 We **commit** our staged changes with a commit message.
@@ -38,7 +42,9 @@ git commit -m "Title" -m "Long description goes here ..........";
 ```
 
 We can even [configure git to open a text editor of our choice using:](https://docs.github.com/en/get-started/getting-started-with-git/associating-text-editors-with-git)
-``git commit``
+```
+git commit
+```
 
 ## Good Commit Messages are Crucial!
 Quality commit messages contribution to:
