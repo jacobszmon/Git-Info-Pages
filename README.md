@@ -52,7 +52,7 @@
 **Samuel:** 
 
 **Jake:** 
-- Undoing in Git with: | Started: 8:31 Sept.30 |
+
 
 ## Done
 **Sadie**:
@@ -61,3 +61,4 @@
 - The Git Life Cycle | Finished: 6:23PM Sept.30 |
 
 **Jake:** 
+- Undoing in Git with: | Finished: 9:17PM Sept.30 |
