@@ -2,15 +2,15 @@
 
 **Sadie**:
 
-Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development program. Some of my hobbies include reading, crocheting and playing puzzle games. I enjoy a good cup of coffee, tea or any chocolate beverage or snack. Some of my favorite foods are bread, chocolate, watermelon or meat. I also like my fair share of salmon, my dad makes the best salmon I have ever tasted.
+Hello, my name is Sadie. I am a programmer at RRC Polytechnic's Game Development program. Some of my hobbies include reading, crocheting and playing puzzle games. I enjoy a good cup of coffee, tea or any chocolate beverage or snack. Some of my favorite foods are bread, chocolate, watermelon or meat. I also like my fair share of salmon, my dad makes the best salmon I have ever tasted.
 
 **Samuel**:
 
-Hey there, I am Samuel Daya, a programmer at RRC Polytechnic Game Development Program. I enjoy playing Trading Card Games, collecting CDs, and bullet hells. My favourite fruit is a classic apple but if you pass me a lemon I will take a big bite. The best meal that I have consumed until now and maybe for the rest of my life is a Norwegian waffle with smoked salmon called a Rokelaks Waffle from KOS Waffles.
+Hey there, I am Samuel Daya, a programmer at RRC Polytechnic's Game Development Program. I enjoy playing Trading Card Games, bullet hell games, and collecting CDs. My favourite fruit is a classic apple but if you pass me a lemon I will take a big bite. The best meal that I have consumed until now and maybe for the rest of my life is a Norwegian waffle with smoked salmon called a Rokelaks Waffle from KOS Waffles.
 
 **Jake**: 
 
-Hi! I'm Jake, and I'm programmer and writer currently enrolled in RRC Polytechnic's Game Development program. I'm a massive fan of all sorts of video games, with a special focus on RPGs with well written characters. I play a lot of DnD, probably too much, and I read when I can find the time. My favorite food is my Baba's perogies, but lately a good shawarma has been my kryptonite.
+Hi! I'm Jake, and I'm programmer and writer currently enrolled in RRC Polytechnic's Game Development program. I'm a massive fan of all sorts of video games, with a special focus on RPGs with well written characters. I play a lot of DnD, probably too much, and I like to read when I can find the time. My favorite food is my Baba's perogies, but lately a good shawarma has been my kryptonite.
 
 
 
@@ -20,20 +20,8 @@ Hi! I'm Jake, and I'm programmer and writer currently enrolled in RRC Polytechni
 
 ### To-Do
 
-**Sadie:**
-
-**Samuel:**
-
-**Jake:**
-
-
-
-**Any**
-
-* Other Interesting/Useful Git Topics
 
 ### Doing
-
 
 
 ### Done
@@ -46,13 +34,13 @@ Hi! I'm Jake, and I'm programmer and writer currently enrolled in RRC Polytechni
   * The role of version control in software development.
   * What is Git (including pros and cons).
 
-Git Fundamentals (Started Sept 30 at 8:20 finished Sept 30 at 9:50)
+* Git Fundamentals (Started Sept 30 at 8:20 finished Sept 30 at 9:50)
 
-* Configuring Git (started Sept 30 at 8:45 finished at Sept 30th 9:20)
-* Staging and Commit Files (started Sept 30 at 9:35 finished Sept 30 at 9:40)
-* Initializing a Repo (Started Sept 30th at 9:25 finished Sept 30 at 9:45)
-* Status, Log and Diff (Started Sept 30th at 9:30 finished Sept 30 at 9:45)
-* Using a Git Ignore File (Started Sept 30th at 9:45 finished Sept 30 at 9:50)
+  * Configuring Git (started Sept 30 at 8:45 finished at Sept 30th 9:20)
+  * Staging and Commit Files (started Sept 30 at 9:35 finished Sept 30 at 9:40)
+  * Initializing a Repo (Started Sept 30th at 9:25 finished Sept 30 at 9:45)
+  * Status, Log and Diff (Started Sept 30th at 9:30 finished Sept 30 at 9:45)
+  * Using a Git Ignore File (Started Sept 30th at 9:45 finished Sept 30 at 9:50)
 * Tags (Started Sept 30th at 9:50 finished Sept at 10:00)
 
 
@@ -92,4 +80,4 @@ Git Fundamentals (Started Sept 30 at 8:20 finished Sept 30 at 9:50)
 
 **Any/All**
 
-* Review Collaborator Pull Requests | Started Sept.30 | Finished: 6:15PM Oct.01 |
+* Review Collaborator Pull Requests on Initial Topic Additions | Started Sept.30 | Finished: 6:15PM Oct.01 |

@@ -19,18 +19,24 @@ In order to properly use version control you need to commit your repository. How
 ## Staging Files Before we Commit
 As we make changes to our code we **commit** the changes to our git repo. Before we can **commit** we must **add** new or changed files to a staging area.
 
-**Let's stage our new readme.md file:**
+To stage a specific file:
 ```
-git add readme.md
+git add <file-name>
 ```
-We could also use a period to stage all new or modified files:
+
+To stage all new or modified files:
 ```
 git add .
 ```
 
-Wilcards and sub-folders work too:
+To stage wildcards (any file with a given extension, in this case .txt files):
 ```
-git add docs/textfiles/*.txt
+git *.txt
+```
+
+To add a folder or sub-folders:
+```
+git add docs/textfiles/
 ```
 
 ## Committing Staged Files
@@ -48,7 +54,7 @@ We can even [configure git to open a text editor of our choice using:](https://d
 
 
 ## Good Commit Messages are Crucial!
-Quality commit messages contribute to:
+**Quality commit messages contribute to:**
 - **Traceability**: Commit messages clarify code history and aid in debugging.
 - **Collaboration**: They help others understand the intentions behind changes.
 - **Documentation**: They act as a form of source code documentation.
