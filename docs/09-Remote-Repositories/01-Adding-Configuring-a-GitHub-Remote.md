@@ -51,7 +51,7 @@ To link a local repository to GitHub, you take your repository name, for this ex
 From the command line (within the project folder) add GitHub as a remote:
 
 ```
-git remote add origin git@github.com:<INSERT-YOUR-GITHUB-USERNAME>/My-Lovely-Repo.git
+git remote add origin https://github.com/<INSERT-YOUR-GITHUB-USERNAME>/My-Lovely-Repo.git
 ```
 
 _Reminder that `<INSERT-YOUR-GITHUB-USERNAME>` should be replaced with your GitHub username._
