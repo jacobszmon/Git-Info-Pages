@@ -1,5 +1,6 @@
 ---
 title: Remote Repositories
+layout: default
 has_children: true
 nav_order: 9
 ---

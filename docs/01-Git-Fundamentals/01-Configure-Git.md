@@ -1,5 +1,6 @@
 ---
 title: Configure Git
+layout: default
 parent: Git Fundamentals 
 nav_order: 1
 ---

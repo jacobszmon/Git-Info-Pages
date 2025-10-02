@@ -1,5 +1,6 @@
 ---
 title: When to Use Different Strategies
+layout: default
 parent: Undoing in Git with
 nav_order: 5
 ---

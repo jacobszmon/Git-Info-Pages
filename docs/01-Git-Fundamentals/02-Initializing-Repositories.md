@@ -1,5 +1,6 @@
 ---
 title: Initializing Repositories
+layout: default
 parent: Git Fundamentals 
 nav_order: 2
 ---

@@ -1,5 +1,6 @@
 ---
 title: Clean
+layout: default
 parent: Undoing in Git with
 nav_order: 4
 ---

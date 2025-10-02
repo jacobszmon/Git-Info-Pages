@@ -1,5 +1,6 @@
 ---
 title: Pushing and Pulling
+layout: default
 parent: Remote Repositories
 nav_order: 2
 ---

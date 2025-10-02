@@ -1,5 +1,6 @@
 ---
 title: Staging and Committing
+layout: default
 parent: Git Fundamentals 
 nav_order: 3
 ---
