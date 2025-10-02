@@ -50,6 +50,6 @@ With a centralized workflow, each team member is updated on every new change in 
 
 ## Source & Additional Links
 
-[Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531991/View).
+- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/03-git-team-collaboration/index.html)
 
-[Comparing Git workflows: What you should know](https://www.atlassian.com/git/tutorials/comparing-workflows).
+- [Comparing Git workflows: What you should know](https://www.atlassian.com/git/tutorials/comparing-workflows)

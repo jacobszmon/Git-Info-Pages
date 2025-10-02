@@ -54,10 +54,10 @@ _**Note:** Pull requests can be sent back unmerged if rework is deemed necessary
 
 ## Source & Additional Links
 
-[Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531991/View).
+- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/03-git-team-collaboration/index.html)
 
-[Comparing Git workflows: What you should know](https://www.atlassian.com/git/tutorials/comparing-workflows).
+- [Comparing Git workflows: What you should know](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
-[Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow).
+- [Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
 
-[The Pitfalls of Feature Branching](https://www.cloudbees.com/blog/pitfalls-feature-branching).
+- [The Pitfalls of Feature Branching](https://www.cloudbees.com/blog/pitfalls-feature-branching)

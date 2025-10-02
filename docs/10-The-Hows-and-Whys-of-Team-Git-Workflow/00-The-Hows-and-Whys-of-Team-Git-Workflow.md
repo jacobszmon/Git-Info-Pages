@@ -41,5 +41,5 @@ Key concepts include:
 
 ## Source
 
-[Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531991/View).
+- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/03-git-team-collaboration/index.html)
 
