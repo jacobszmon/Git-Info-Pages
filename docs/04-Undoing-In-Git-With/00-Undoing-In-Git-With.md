@@ -11,10 +11,10 @@ nav_order: 4
 
 One of the biggest benefits of Git and version control in general is the ability to *"hit the undo button"* as it were, returning aspects of your working directory to a previous snapshot you've taken.
 
-This Module will cover four different ways you can do that using Git, how those methods differ and when to use each one.
+This module will cover four different ways you can do that using Git, how those methods differ and when to use each one.
 
 
-## Objectives
+## Learning Objectives
 
 Upon completion of this module, you should be able to:
 
