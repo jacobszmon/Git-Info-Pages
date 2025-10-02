@@ -6,7 +6,7 @@ nav_order: 3
 ---
 
 # Git Fundamentals 
-Git is a big part of Software Development, it allows us to collaborate with others, track our changes and have a version history we can rely on. Here we will learn the basics of using git, and why it is so important. 
+Git is a big part of Software Development, allowing us to collaborate with others, track our changes and have a version history we can rely on. Here we will learn the basics of using git, and why it is so important. 
 
 
 ## Learning Objectives
@@ -15,7 +15,7 @@ Git is a big part of Software Development, it allows us to collaborate with othe
 2. Understand the basic concepts of Git as a version control system.
 3. Have some hands-on experience with Git.
 
-## Sources and Additional links:
+## Sources and Additional Resources:
 
 - [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/01-version-control-tools/index.html)
 

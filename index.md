@@ -14,7 +14,7 @@ When working on a project it is best to have a history of that project you can a
 
 **Some documents have more advanced version control built-in** 
 - Microsoft Word has a "Track Changes" feature.
-- Google Docs automatically tracks file changes over.
+- Google Docs automatically tracks file changes over time.
 - You can see the edit history of all Wikipedia articles. [(Here's the history of the version control article.)](https://en.wikipedia.org/w/index.php?title=Version_control&action=history)
 
 
@@ -22,7 +22,7 @@ When working on a project it is best to have a history of that project you can a
 ### Version Control with Git 
 - Git is a free and open source distributed version control system.
 - Git helps us keep track of the changes to our source code over the lifespan of a project.
-- When combined with cloud version control sites like GitHub or GitLab, we can use git to collaborate with others remotely.
+- When combined with cloud version control sites like GitHub or GitLab, we can use Git to collaborate with others remotely.
 
 
 ### Why Git?
@@ -46,15 +46,15 @@ When working on a project it is best to have a history of that project you can a
 
 **Sadie**:
 
-Hello, my name is Sadie. I am a programmer at RRC Polytechnic's Game Development program. Some of my hobbies include reading, crocheting and playing puzzle games. I enjoy a good cup of coffee, tea or any chocolate beverage or snack. Some of my favorite foods are bread, chocolate, watermelon or meat. I also like my fair share of salmon, my dad makes the best salmon I have ever tasted.
+Hello, my name is Sadie. I am a programmer at RRC Polytechnic's Game Development program. Some of my hobbies include reading, crocheting and playing puzzle games. I enjoy a good cup of coffee, tea or any chocolate beverage or snack. Some of my favourite foods are bread, chocolate, watermelon or meat. I also like my fair share of salmon, my dad makes the best salmon I have ever tasted.
 
 
 **Samuel**:
 
-Hey there, I am Samuel Daya, a programmer at RRC Polytechnic's Game Development Program. I enjoy playing Trading Card Games, bullet hell games, and collecting CDs. My favourite fruit is a classic apple but if you pass me a lemon I will take a big bite. The best meal that I have consumed until now and maybe for the rest of my life is a Norwegian waffle with smoked salmon called a Rokelaks Waffle from KOS Waffles.
+Hey there, I am Samuel Daya, a programmer at RRC Polytechnic's Game Development program. I enjoy playing Trading Card Games, bullet hell games, and collecting CDs. My favourite fruit is a classic apple but if you pass me a lemon I will take a big bite. The best meal that I have consumed until now and maybe for the rest of my life is a Norwegian waffle with smoked salmon called a Rokelaks Waffle from KOS Waffles.
 
 
 **Jake:**
 
-Hi! I'm Jake, and I'm programmer and writer currently enrolled in RRC Polytechnic's Game Development program. I'm a massive fan of all sorts of video games, with a special focus on RPGs with well written characters. I play a lot of DnD, probably too much, and I like to read when I can find the time. My favorite food is my Baba's perogies, but lately a good shawarma has been my kryptonite.
+Hi! I'm Jake, and I'm a programmer and writer currently enrolled in RRC Polytechnic's Game Development program. I'm a massive fan of all sorts of video games, with a special focus on RPGs with well written characters. I play a lot of DnD, probably too much, and I like to read when I can find the time. My favourite food is my Baba's perogies, but lately a good shawarma has been my kryptonite.
 

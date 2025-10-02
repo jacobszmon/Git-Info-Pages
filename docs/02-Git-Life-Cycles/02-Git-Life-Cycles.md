@@ -89,7 +89,7 @@ When it is staged, the file is tracked by Git and ready to be committed.
 
 A file that is **untracked** or **modified** cannot be committed to a repository. Once said file is added to the staging area, it is considered **staged**.
 
-## Sources & Additional Links
+## Sources and Additional Resources:
 
 - [Picture Source](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
 
