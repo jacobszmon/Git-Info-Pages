@@ -1,5 +1,5 @@
 ---
-title: The How and Why of Team Git Workflow
+title: Team Git Workflow
 layout: default
 has_children: true
 nav_order: 10

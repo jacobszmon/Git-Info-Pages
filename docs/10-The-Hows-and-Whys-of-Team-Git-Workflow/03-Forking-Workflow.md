@@ -1,7 +1,7 @@
 ---
 title: Forking Workflow
 layout: default
-parent: The How and Why of Team Git Workflow
+parent: Team Git Workflow
 nav_order: 3
 ---
 
