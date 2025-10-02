@@ -15,7 +15,7 @@ Remote repositories can interact with local repositories, allowing you to push y
 
 Upon completion of this module, you should be able to:
 
-- How to setup a remote repository.
+- Setup a remote repository.
 - Connect a local repository to a remote repository.
 - Push to and pull from a remote repository on GitHub.
 - Clone and Fork remote repositories to a local machine.
