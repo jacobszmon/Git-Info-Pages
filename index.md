@@ -49,3 +49,8 @@ When working on a project it is best to have a history of that project you can a
 - [Git CheetSheet](https://training.github.com/downloads/github-git-cheat-sheet/)- The most popular git commands in one page.
 - [Pro Git Book](http://git-scm.com/book) - Free ebook provides a deep dive into everything git
 
+
+## Wiki Authors
+**Jake:**
+
+Hi! I'm Jake, and I'm programmer and writer currently enrolled in RRC Polytechnic's Game Development program. I'm a massive fan of all sorts of video games, with a special focus on RPGs with well written characters. I play a lot of DnD, probably too much, and I read when I can find the time. My favorite food is my Baba's perogies, but lately a good shawarma has been my kryptonite.
