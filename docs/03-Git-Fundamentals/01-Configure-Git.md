@@ -9,7 +9,7 @@ nav_order: 1
 # Configure Git 
 {: .no_toc }
 
-Before we create our repository we need to set up Git on our device. We need to set our main folder where your project will be stored. 
+Before we create our repository we need to set up Git on our device.
 
 ## Table of Contents
 {: .no_toc }
@@ -23,12 +23,7 @@ Start by launching Git Bash from the Windows Terminal. Try running:
 ```
 git --version
 ```
-
-Let's make a folder to play in:
-```
-mkdir my-first-git
-cd my-first-git
-```
+This will help you ensure that Git is properly installed on your device.
 
 ## Configuring Git
 Next, let's tell Git who you are. Git needs to know your name and email.

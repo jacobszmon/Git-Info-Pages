@@ -17,7 +17,21 @@ Creating repositories is the first and most important step when creating a new p
 {:toc}
 
 <!-- prettier-ignore-end -->
-# Initializing Repositories
+
+## Repository Location
+In order to make a repository, we first need a place to put it!
+
+Let's make a folder to play in:
+```
+mkdir my-first-git
+```
+Next, let's move the terminal's focus into the folder we just made:
+```
+cd my-first-git
+```
+
+
+## Initializing Repositories
 To bring a new project **under control** we must first initialize the repository (the repo) from within the project's root folder.
 
 To initialize a new git repo from the command prompt: 

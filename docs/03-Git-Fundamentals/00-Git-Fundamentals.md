@@ -10,10 +10,10 @@ Git is a big part of Software Development, it allows us to collaborate with othe
 
 
 ## Learning Objectives
-**In this module we will be learning:**
-1. Understanding the role and importance of version control in software development.
-2. Exploring the basic concepts of Git as a version control system.
-3. Getting hands-on experience with Git.
+**Upon completion of this module, you should:**
+1. Understand the role and importance of version control in software development.
+2. Understand the basic concepts of Git as a version control system.
+3. Have some hands-on experience with Git.
 
 ## Sources and Additional links:
 

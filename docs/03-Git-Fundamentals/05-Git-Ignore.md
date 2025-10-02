@@ -31,18 +31,20 @@ Exclude files and folders by create a ``.gitignore`` file in the project root:
 Ignore specific files.
 ```
 # This is a comment in the ignore file
+
+# Ignore a specific file (in this case Thumbs.db)
 Thumbs.db
 
-#Wildcards: Ignore all .exe files.
+# Wildcards: Ignore all .exe files.
 *.exe
 
-#Exception to wildcards: Do track the special.exe file.
+# Exception to wildcards: Track the special.exe file, even though we aren't tracking .exe files.
 !special.exe
 
 #Ignore all files in any folder called build.
 build/
 
-#Ignore all .pdf files in the doc/ folder and any of its sub-folders.
+# Ignore all .pdf files in the doc/ folder and any of its sub-folders.
 doc/**/*.pdf
 ```
 
