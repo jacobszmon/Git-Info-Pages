@@ -6,7 +6,12 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 **Samuel**:
 Hey there, I am Samuel Daya, a programmer at RRC Polytechnic Game Development Program. I enjoy playing Trading Card Games, collecting CDs, and bullet hells. My favourite fruit is a classic apple but if you pass me a lemon I will take a big bite. The best meal that I have consumed until now and maybe for the rest of my life is a Norwegian waffle with smoked salmon called a Rokelaks Waffle from KOS Waffles.
 
-**Jake**:
+**Jake**: 
+Hi! I'm Jake, and I'm programmer and writer currently enrolled in RRC Polytechnic's Game Development program. I'm a massive fan of all sorts of video games, with a special focus on RPGs with well written characters. I play a lot of DnD, probably too much, and I read when I can find the time. My favorite food is my Baba's perogies, but lately a good shawarma has been my kryptonite.
+
+
+
+
 
 ## To-Do List
 
@@ -69,11 +74,13 @@ Git Fundamentals (Started Sept 30 at 8:20 finished Sept 30 at 9:50)
 **Jake:**
 
 * Undoing in Git with: | Finished: 9:17PM Sept.30 |
+
   * Checkout | Started 9:42PM Sept.30 | Finished 9:54PM Sept.30 |
   * Reset | Started 10:00PM Sept.30 | Finished: 10:07PM Sept.30 |
   * Revert | Started 10:10PM Sept.30 | Finished: 10:17PM Sept.30 |
   * Clean | Started 10:20PM Sept.30 | Finished: 10:26PM Sept.30 |
   * When to use the different strategies. | Started 10:30PM Sept.30 | Finished: 10:33PM Sept.30 |
+
 * Resolving Merge Conflict | Started 10:39PM Sept.30 | Finished: 10:44PM Sept.30 |
 * Stashing | Started 11:23PM Sept.30 | Finished: 11:26PM Sept.30 |
 * OTHER USEFUL TOPIC: Pull Requests (Under: The How and Why of Team Git Workflow) | Started 11:37PM Sept.30 | Finished: 12:16AM Sept.30 |
