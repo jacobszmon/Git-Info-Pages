@@ -36,14 +36,22 @@ GitHub is a hosting platform for Git repositories owned by Microsoft. It provide
 
 **Clone**: Make a full copy of a repository at its current state. Commonly used in collaborative projects to make a local copy of a remote repository.
 
+## Adding a Repository To GitHub
+
+To save a local git repository to your GitHub account, create a new repository by way of the "+" button in the top right corner of the GitHub website.
+
+_**IMPORTANT:** Be sure not to initialize with a README or with any other files._
+
+![Setting Up GitHub Repo](GitHubRepo.png)
+
 ## Linking Your Local Repository to GitHub
 
-To link a local repository to GitHub, you take your repository name, for this example its `My-Repository`. Make sure it is an initialized Git repository.
+To link a local repository to GitHub, you take your repository name, for this example its `My-Lovely-Repo`. Make sure it is an initialized Git repository.
 
 From the command line (within the project folder) add GitHub as a remote:
 
 ```
-git remote add origin git@github.com:<INSERT-YOUR-GITHUB-USERNAME>/My-Repository.git
+git remote add origin git@github.com:<INSERT-YOUR-GITHUB-USERNAME>/My-Lovely-Repo.git
 ```
 
 _Reminder that `<INSERT-YOUR-GITHUB-USERNAME>` should be replaced with your GitHub username._
@@ -55,6 +63,6 @@ git remote -v
 
 ## Sources & Additional Links
 
-- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html)
+- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html#45)
 
 - [Set up Git](https://docs.github.com/en/get-started/git-basics/set-up-git)
