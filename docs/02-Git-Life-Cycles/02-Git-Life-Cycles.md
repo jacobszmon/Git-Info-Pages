@@ -118,10 +118,10 @@ A file that is **untracked** or **modified** cannot be committed to a repository
 
 ## Sources & Additional Links
 
-[Picture Source](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
+- [Picture Source](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
 
-[Git Life Cycle](https://www.geeksforgeeks.org/git/git-life-cycle).
+- [Git Life Cycle](https://www.geeksforgeeks.org/git/git-life-cycle)
 
-[Stages in Git Life Cycle](https://www.toolsqa.com/git/git-life-cycle).
+- [Stages in Git Life Cycle](https://www.toolsqa.com/git/git-life-cycle)
 
-[Git Life Cycle Diagram](https://www.tutorialspoint.com/git/git_life_cycle.htm).
+- [Git Life Cycle Diagram](https://www.tutorialspoint.com/git/git_life_cycle.htm)

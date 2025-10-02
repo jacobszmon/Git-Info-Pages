@@ -55,6 +55,6 @@ git remote -v
 
 ## Sources & Additional Links
 
-[Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531990/View).
+- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html)
 
-[Set up Git](https://docs.github.com/en/get-started/git-basics/set-up-git).
+- [Set up Git](https://docs.github.com/en/get-started/git-basics/set-up-git)

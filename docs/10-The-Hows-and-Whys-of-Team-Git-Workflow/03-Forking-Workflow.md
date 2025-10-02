@@ -53,10 +53,10 @@ _**NOTE:** This workflow's life cycle is similar to the branching workflow, exce
 
 ## Source & Additional Links
 
-[Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531991/View).
+- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/03-git-team-collaboration/index.html)
 
-[Comparing Git workflows: What you should know](https://www.atlassian.com/git/tutorials/comparing-workflows).
+- [Comparing Git workflows: What you should know](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
-[Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow).
+- [Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
 
-[Forking vs Branching in Github](https://stackoverflow.com/questions/3611256/forking-vs-branching-in-github).
+- [Forking vs Branching in Github](https://stackoverflow.com/questions/3611256/forking-vs-branching-in-github)

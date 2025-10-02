@@ -68,8 +68,8 @@ git merge experimental
 Merging will bring all the commits made in the separate branch back to main and update the state of the project like it was in the branch, while also linking it with any additional commits made in main.
 
 ## Sources & Additional Links
-[Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531990/View).
+- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html)
 
-[Branches in a Nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell).
+- [Branches in a Nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 
-[Basic Branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging).
+- [Basic Branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)

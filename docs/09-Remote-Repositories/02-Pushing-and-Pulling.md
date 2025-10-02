@@ -75,8 +75,8 @@ It is best to always pull before starting work and push everytime finishing work
 
 ## Sources & Additional Links
 
-[Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531990/View).
+- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html)
 
-[Pushing Commits to a remote repository](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository).
+- [Pushing Commits to a remote repository](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)
 
-[Getting changes from a remote repository](https://docs.github.com/en/get-started/using-git/getting-changes-from-a-remote-repository).
+- [Getting changes from a remote repository](https://docs.github.com/en/get-started/using-git/getting-changes-from-a-remote-repository)
