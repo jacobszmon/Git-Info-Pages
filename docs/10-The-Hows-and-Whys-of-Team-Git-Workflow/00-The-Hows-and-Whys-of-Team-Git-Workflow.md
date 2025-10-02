@@ -50,5 +50,5 @@ Upon completion of this module, you should be able to:
 
 ## Source
 
-- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/03-git-team-collaboration/index.html)
+- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/03-git-team-collaboration/index.html#20)
 
