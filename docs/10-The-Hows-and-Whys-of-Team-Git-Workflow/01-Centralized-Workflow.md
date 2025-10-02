@@ -1,7 +1,7 @@
 ---
 title: Centralized Workflow
 layout: default
-parent: The How and Why of Team Git Workflow
+parent: Team Git Workflow
 nav_order: 1
 ---
 
@@ -50,6 +50,6 @@ With a centralized workflow, each team member is updated on every new change in 
 
 ## Source & Additional Links
 
-- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/03-git-team-collaboration/index.html)
+- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/03-git-team-collaboration/index.html#22)
 
 - [Comparing Git workflows: What you should know](https://www.atlassian.com/git/tutorials/comparing-workflows)

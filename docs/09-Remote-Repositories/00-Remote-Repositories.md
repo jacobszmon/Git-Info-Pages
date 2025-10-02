@@ -11,11 +11,11 @@ A remote repository is a version of your project that is hosted on a remote serv
 
 Remote repositories can interact with local repositories, allowing you to push your changes to others and pull their changes to your local repository.
 
-## Information
+## Learning Objectives
 
-These pages contain the following information:
+Upon completion of this module, you should be able to:
 
 - How to setup a remote repository.
-- Connect local repository to the remote repository.
-- How to push and pull.
-- Cloning and Forking remote repositories to local machine.
+- Connect a local repository to a remote repository.
+- Push to and pull from a remote repository on GitHub.
+- Clone and Fork remote repositories to a local machine.

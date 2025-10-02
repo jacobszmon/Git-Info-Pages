@@ -1,7 +1,7 @@
 ---
 title: Pull Requests
 layout: default
-parent: The How and Why of Team Git Workflow
+parent: Team Git Workflow
 nav_order: 4
 ---
 
@@ -58,7 +58,7 @@ Pull requests are initiated prior to merging one branch with another branch of a
 
 
 
-**NOTE:** Git GUIs (like Visual Studio or GitHub Desktop) will often provide you with a link to create a request after pushing changes to a remote branch. Though often their capabilities in doing so are quite limited.
+_**NOTE:** Git GUIs (like Visual Studio or GitHub Desktop) will often provide you with a link to create a request after pushing changes to a remote branch. Though often their capabilities in doing so are quite limited._
 
 
 

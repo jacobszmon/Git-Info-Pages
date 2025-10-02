@@ -62,12 +62,12 @@ It is best practice to pull before pushing to avoid merge conflicts.
 
 There are multiple philosophies that people follow when pushing and pulling.
 
-Common times people push:
+**Common times people push:**
 - After every commit.
 - If in a branch with a team, alternating with team members.
 - Before closing the repository for the day.
 
-Common times people pull:
+**Common times people pull:**
 - Before beginning to work on the repository for the day.
 - Whenever a push is made from another team member on the same branch.
 
@@ -75,7 +75,7 @@ It is best to always pull before starting work and push everytime finishing work
 
 ## Sources & Additional Links
 
-- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html)
+- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html#49)
 
 - [Pushing Commits to a remote repository](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)
 

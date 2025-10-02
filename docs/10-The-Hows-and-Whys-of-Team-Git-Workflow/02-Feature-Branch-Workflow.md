@@ -1,7 +1,7 @@
 ---
 title: Feature Branch Workflow
 layout: default
-parent: The How and Why of Team Git Workflow
+parent: Team Git Workflow
 nav_order: 2
 ---
 
@@ -54,7 +54,7 @@ _**Note:** Pull requests can be sent back unmerged if rework is deemed necessary
 
 ## Source & Additional Links
 
-- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/03-git-team-collaboration/index.html)
+- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/03-git-team-collaboration/index.html#24)
 
 - [Comparing Git workflows: What you should know](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
