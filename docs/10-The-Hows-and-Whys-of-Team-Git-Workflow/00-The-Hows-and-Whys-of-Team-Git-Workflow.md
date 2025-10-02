@@ -43,10 +43,10 @@ Key concepts include:
 
 Upon completion of this module, you should be able to:
 
-- Know the pros & cons of using Centralized, Feature Branch, and Forking workflows.
+- Understand the pros & cons of using Centralized, Feature Branch, and Forking workflows.
 - Understand the differences between the three collaborative workflows.
 - Apply the life cycle of each workflow in projects.
-- Know when to use each workflow in team projects.
+- Use each workflow in team projects.
 
 ## Source
 
