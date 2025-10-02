@@ -1,6 +1,6 @@
 ---
 title: Status Log and Diff
-parent: Git-Fundamentals 
+parent: Git Fundamentals 
 nav_order: 4
 ---
 
