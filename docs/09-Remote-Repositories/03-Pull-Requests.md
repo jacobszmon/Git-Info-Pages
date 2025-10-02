@@ -1,8 +1,8 @@
 ---
 title: Pull Requests
 layout: default
-parent: Team Git Workflow
-nav_order: 4
+parent: Remote Repositories
+nav_order: 3
 ---
 
 <!-- prettier-ignore-start -->
@@ -85,6 +85,6 @@ You will be prevented from creating a pull request if your branch can't be merge
 
 ## Sources and Additional Resources:
 
-- [Class Notes on Pull Requests](https://stungeye.github.io/Software-Development-And-Documentation-1/03-git-team-collaboration/index.html#28).
+- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/03-git-team-collaboration/index.html#28).
 
 - [About Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
