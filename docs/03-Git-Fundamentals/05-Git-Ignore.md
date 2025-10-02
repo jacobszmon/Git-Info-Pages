@@ -8,7 +8,7 @@ nav_order: 5
 # Git ignore
 {: .no_toc }
 
-Sometimes we don't need certain files taking up storage in our repository. We use Git ignore to combat this. By simply putting a file called .gitignore we are able to exclude specific file types. 
+Sometimes we don't need certain files taking up storage in our repository. We use a Git Ignore to combat this. By simply putting a file called .gitignore we are able to exclude specific file types. 
 
 ## Table of Contents
 {: .no_toc }
