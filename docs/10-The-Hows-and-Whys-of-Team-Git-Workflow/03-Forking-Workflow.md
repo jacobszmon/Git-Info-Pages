@@ -51,7 +51,7 @@ This allows for third-parties to work on a project without giving access to writ
 
 _**NOTE:** This workflow's life cycle is similar to the branching workflow, except instead of branching, you fork the repository._
 
-## Source & Additional Links
+## Sources and Additional Resources:
 
 - [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/03-git-team-collaboration/index.html#26)
 

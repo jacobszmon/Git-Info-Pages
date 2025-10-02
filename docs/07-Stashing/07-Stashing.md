@@ -64,6 +64,6 @@ To restore stashed changes, use:
 
 - ```git stash pop 'stash@{n}'``` : Pop a specific stash seen in ```git stash list``` .
 
-## Sources
+## Sources and Additional Resources:
 - [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html#27)
 - [Documentation for ```git stash```](https://git-scm.com/docs/git-stash)

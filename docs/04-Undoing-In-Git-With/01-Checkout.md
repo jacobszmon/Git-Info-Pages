@@ -39,6 +39,6 @@ git checkout .
 ```
 
 
-## Sources and Additional Links
+## Sources and Additional Resources:
 - [Class Notes on ```git checkout```](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html#4)
 - [Documentation for ```git checkout```](https://git-scm.com/docs/git-checkout)

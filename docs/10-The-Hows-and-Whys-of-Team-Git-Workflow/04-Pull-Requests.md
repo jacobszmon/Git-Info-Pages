@@ -83,7 +83,7 @@ You will be prevented from creating a pull request if your branch can't be merge
 
 8. Attempt to create the pull request again.
 
-## Source & Additional Links
+## Sources and Additional Resources:
 
 - [Class Notes on Pull Requests](https://stungeye.github.io/Software-Development-And-Documentation-1/03-git-team-collaboration/index.html#28).
 

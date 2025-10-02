@@ -48,7 +48,7 @@ With a centralized workflow, each team member is updated on every new change in 
 
 6. **Synchronizing Team:** Others can now pull from the central repository to locally incorporate the latest changes.
 
-## Source & Additional Links
+## Sources and Additional Resources:
 
 - [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/03-git-team-collaboration/index.html#22)
 

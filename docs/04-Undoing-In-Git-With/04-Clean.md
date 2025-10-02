@@ -42,5 +42,5 @@ If you want to remove all untracked files from your working directory:
 git clean
 ```
 
-## Sources and Additional Links
+## Sources and Additional Resources:
 - [Documentation for ```git clean```](https://git-scm.com/docs/git-clean)

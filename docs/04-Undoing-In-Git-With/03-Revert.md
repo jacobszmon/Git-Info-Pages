@@ -53,6 +53,6 @@ git revert -n B^..D
 git commit -m "Revert commits C through D inclusively." 
 ```
 
-## Sources and Additional Links
+## Sources and Additional Resources:
 - [Class Notes on ```git revert```](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html#11)
 - [Documentation for ```git revert```](https://git-scm.com/docs/git-revert)

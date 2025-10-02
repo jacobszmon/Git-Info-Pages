@@ -69,7 +69,7 @@ You can think of ```git merge <branch-name>``` as pulling the called branch into
 
 Merging will bring all the commits made in the separate branch back to main and update the state of the project like it was in the branch, while also linking it with any additional commits made in main.
 
-## Sources & Additional Links
+## Sources and Additional Resources:
 - [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html#21)
 
 - [Branches in a Nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)

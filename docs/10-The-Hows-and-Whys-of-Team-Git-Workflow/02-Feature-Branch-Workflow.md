@@ -52,7 +52,7 @@ _**Note:** This workflow is sometimes called [GitHub Flow](https://docs.github.c
 
 _**Note:** Pull requests can be sent back unmerged if rework is deemed necessary._
 
-## Source & Additional Links
+## Sources and Additional Resources:
 
 - [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/03-git-team-collaboration/index.html#24)
 

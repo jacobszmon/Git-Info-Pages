@@ -44,6 +44,6 @@ Use ```git revert``` if:
 Use ```git clean``` when you want to remove untracked files from your working directory.
 
 
-## Sources and Additional Links
+## Sources and Additional Resources:
 - [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html#3)
 - [Helpful Decision Tree in Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html#15)
