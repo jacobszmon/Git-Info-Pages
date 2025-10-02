@@ -1,7 +1,7 @@
 ---
 title: Status Log and Diff
 layout: default
-parent: Git-Fundamentals 
+parent: Git Fundamentals 
 nav_order: 4
 ---
 
