@@ -29,7 +29,7 @@ A git reset comes in three flavors, each affecting the repository differently:
 
 - **Soft Reset (Weird)**: Resets the HEAD pointer, but keeps the changes in the staging area and working directory. The HEAD and your working directory may differ if you had uncommitted changes.
 
-⚠️ ***WARNING***: *Using reset is dangerous. It rewrites your repository's history by changing the HEAD pointer. Commits after the reset point are not "lost", but they can become difficult to recover.*
+_⚠️ **WARNING**: Using reset is dangerous. It rewrites your repository's history by changing the HEAD pointer. Commits after the reset point are not "lost", but they can become difficult to recover._
 
 
 
