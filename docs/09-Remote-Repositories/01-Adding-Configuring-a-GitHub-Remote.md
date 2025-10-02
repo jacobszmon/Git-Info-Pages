@@ -38,7 +38,7 @@ GitHub is a hosting platform for Git repositories owned by Microsoft. It provide
 
 ## Adding a Repository To GitHub
 
-To save a local git repository to your GitHub account, create a new repository by way of the "+" button in the top right corner of the GitHub website.
+To save a local git repository to your GitHub account, you must first create a new repository by way of the "+" button in the top right corner of the GitHub website.
 
 _**IMPORTANT:** Be sure not to initialize with a README or with any other files._
 
