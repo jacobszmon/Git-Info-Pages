@@ -30,7 +30,12 @@ Note: Git defaults to using the word "master" ([as in "master copy" or "master r
 git branch -m main
 ```
 
-Additional Notes:
-[Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531988/View)
-[Git Documentation](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
-[Data Camp](https://www.datacamp.com/tutorial/git-init)
+
+## Sources and Additional Resources:
+
+- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/01-version-control-tools/index.html#24)
+
+- [Git Documentation](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+
+- [Data Camp](https://www.datacamp.com/tutorial/git-init)
+

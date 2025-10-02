@@ -43,7 +43,11 @@ git config --global color.ui auto
 ```
 You only need to set these once!
 
-## Additional Links:
-[Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531988/View)
-[Getting Started with Git](https://git-scm.com/book/ms/v2/Getting-Started-First-Time-Git-Setup)
-[GitHub Docs](https://docs.github.com/en/get-started/git-basics/set-up-git)
+
+## Sources and Additional Resources:
+
+- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/01-version-control-tools/index.html#22)
+
+- [Getting Started with Git](https://git-scm.com/book/ms/v2/Getting-Started-First-Time-Git-Setup)
+
+- [GitHub Docs](https://docs.github.com/en/get-started/git-basics/set-up-git)

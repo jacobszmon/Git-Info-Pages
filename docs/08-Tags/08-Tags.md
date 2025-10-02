@@ -61,8 +61,11 @@ git show  <tag-name>
 git diff <tag-name> 
 ```
 
-Additional Notes: 
-[Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531990/View)
-[Git Documentation](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+
+## Sources and Additional Resources:
+
+- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html#33)
+
+- [Git Documentation](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
 
 
