@@ -21,7 +21,6 @@ Reset is a git command that provides a dangerous and potentially destructive way
 
 
 ## What is Reset?
-⚠️ ***WARNING***: Using reset is dangerous. It rewrites your repository's history by changing the HEAD pointer. Commits after the reset point are not "lost", but they can become difficult to recover.
 
 A git reset comes in three flavors, each affecting the repository differently:
 - **Hard Reset (Dangerous)**: Resets the HEAD pointer, staging area, and your working directory to match a specific commit. All uncommitted changes are lost when they are reset to the specified commit.
@@ -29,6 +28,9 @@ A git reset comes in three flavors, each affecting the repository differently:
 - **Mixed Reset (Weirder)**: Resets the HEAD pointer and the staging area, but keeps the changes in your working directory. The HEAD and your working directory may differ if you had uncommitted changes.
 
 - **Soft Reset (Weird)**: Resets the HEAD pointer, but keeps the changes in the staging area and working directory. The HEAD and your working directory may differ if you had uncommitted changes.
+
+⚠️ ***WARNING***: *Using reset is dangerous. It rewrites your repository's history by changing the HEAD pointer. Commits after the reset point are not "lost", but they can become difficult to recover.*
+
 
 
 ## How to use Reset

@@ -26,7 +26,7 @@ Clean offers a much more decisive way of undoing changes. Clean allows you to di
 
 Because ```git clean``` removes files that have no backups in previous commits, any affected file is permanently gone.
 
-⚠️ ***WARNING***: Using clean can be dangerous. The discarded changes cannot be recovered.
+⚠️ ***WARNING***: *Using clean can be dangerous. The discarded changes cannot be recovered.*
 
 
 
