@@ -47,8 +47,3 @@ Upon completion of this module, you should be able to:
 - Understand the differences between the three collaborative workflows.
 - Apply the life cycle of each workflow in projects.
 - Use each workflow in team projects.
-
-## Source
-
-- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/03-git-team-collaboration/index.html#20)
-

@@ -14,10 +14,3 @@ Git is a big part of Software Development, allowing us to collaborate with other
 1. Understand the role and importance of version control in software development.
 2. Understand the basic concepts of Git as a version control system.
 3. Have some hands-on experience with Git.
-
-## Sources and Additional Resources:
-
-- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/01-version-control-tools/index.html)
-
-
-
