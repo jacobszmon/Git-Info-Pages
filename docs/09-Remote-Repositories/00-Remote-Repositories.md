@@ -17,5 +17,5 @@ Upon completion of this module, you should be able to:
 
 - How to setup a remote repository.
 - Connect a local repository to a remote repository.
-- How to push to and pull from a remote repository on GitHub.
-- Cloning and Forking remote repositories to local machine.
+- Push to and pull from a remote repository on GitHub.
+- Clone and Fork remote repositories to a local machine.
