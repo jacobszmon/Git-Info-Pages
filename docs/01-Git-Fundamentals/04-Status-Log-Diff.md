@@ -56,12 +56,13 @@ Or specific folders (and their sub-folders):
 git diff ./textfiles/plans
 ```
 
-Addtitional Notes: 
 
-[Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531988/View)
+## Sources and Additional Resources:
 
-[Git Diff Documentation](https://git-scm.com/docs/git-diff)
+- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/01-version-control-tools/index.html#25)
 
-[Git Status Documentation](https://git-scm.com/docs/git-status)
+- [Git Diff Documentation](https://git-scm.com/docs/git-diff)
 
-[Git Info Documentation](https://git-scm.com/docs/git)
+- [Git Status Documentation](https://git-scm.com/docs/git-status)
+
+- [Git Info Documentation](https://git-scm.com/docs/git)
