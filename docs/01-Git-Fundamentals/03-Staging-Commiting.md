@@ -64,7 +64,10 @@ Quality commit messages contribute to:
 - "asdf."
 
 
-Addition Notes:
-[Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531988/View)
-[W3Schools Git Commit](https://www.w3schools.com/git/git_commit.asp)
-[Git Documetation](https://git-scm.com/docs/git-commit)
+## Sources and Additional Resources:
+
+- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/01-version-control-tools/index.html#26 )
+
+- [W3Schools Git Commit](https://www.w3schools.com/git/git_commit.asp)
+
+- [Git Documetation](https://git-scm.com/docs/git-commit)

@@ -46,10 +46,10 @@ doc/**/*.pdf
 ```
 
 
-Additional Links: 
+## Sources and Additional Resources:
 
-[Class Notes](https://learn.rrc.ca/d2l/le/content/645955/viewContent/10531988/View)
+- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/01-version-control-tools/index.html#33)
 
-[Git Ignore GitHub Docs](https://docs.github.com/en/get-started/git-basics/ignoring-files)
+- [Git Ignore GitHub Docs](https://docs.github.com/en/get-started/git-basics/ignoring-files)
 
-[Git Documentaion](https://git-scm.com/docs/gitignore)
+- [Git Documentaion](https://git-scm.com/docs/gitignore)
