@@ -27,7 +27,7 @@ To create a new tag on the current commit:
 git tag <tag-name>
 ```
 
-To create a tag a specified commit:
+To create a tag on a specified commit:
 ```
 git tag <tag-name> <commit hash>
 ```
