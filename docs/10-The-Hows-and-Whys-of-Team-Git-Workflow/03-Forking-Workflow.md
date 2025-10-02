@@ -53,7 +53,7 @@ _**NOTE:** This workflow's life cycle is similar to the branching workflow, exce
 
 ## Source & Additional Links
 
-- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/03-git-team-collaboration/index.html)
+- [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/03-git-team-collaboration/index.html#26)
 
 - [Comparing Git workflows: What you should know](https://www.atlassian.com/git/tutorials/comparing-workflows)
 
