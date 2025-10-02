@@ -22,22 +22,31 @@ There are several popular workflows used by teams:
 - Each new feature updates the repository and keeps collaboration close.
 
 **Feature Branch Workflow**
-- Perfect for multiple feature developments
+- Perfect for multiple feature developments.
 - Main branch is kept clean and experimental branches are pulled when ready.
 
 **Forking Workflow**
-- Perfect for open-source projects
+- Perfect for open-source projects.
 - Original repository is kept clean and a project maintainer controls which pull request can be merged.
 
 ## Collaborative Coding with Git and GitHub
 
 Key concepts include:
 
-- Forking: Creating a personal remote copy of another user's remote repository.
-- Cloning: Making a full copy of a repository at its current state.
-- Committing: Saving changes to the local repository.
-- Pushing: Sending committed changes to a remote repository.
-- Pull Requests: Proposing changes to a repository that can be reviewed and potentially merged.
+- **Forking:** Creating a personal remote copy of another user's remote repository.
+- **Cloning:** Making a full copy of a repository at its current state.
+- **Committing:** Saving changes to the local repository.
+- **Pushing:** Sending committed changes to a remote repository.
+- **Pull Requests:** Proposing changes to a repository that can be reviewed and potentially merged.
+
+## Learning Objectives
+
+Upon completion of this module, you should be able to:
+
+- Learn the pros & cons of using Centralized, Feature Branch, and Forking workflows.
+- Understand the differences between three collaborative workflows.
+- Know the life cycle and workflow of each collaborative workflow.
+- When to use each workflow in team projects.
 
 ## Source
 
