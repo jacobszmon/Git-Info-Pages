@@ -1,5 +1,6 @@
 ---
 title: Reset
+layout: default
 parent: Undoing in Git with
 nav_order: 2
 ---

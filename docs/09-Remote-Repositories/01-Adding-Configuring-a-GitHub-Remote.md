@@ -1,5 +1,6 @@
 ---
 title: GitHub Remote
+layout: default
 parent: Remote Repositories
 nav_order: 1
 ---

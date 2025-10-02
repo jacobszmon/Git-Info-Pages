@@ -1,5 +1,6 @@
 ---
 title: Revert
+layout: default
 parent: Undoing in Git with
 nav_order: 3
 ---

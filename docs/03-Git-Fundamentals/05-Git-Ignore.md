@@ -1,5 +1,6 @@
 ---
 title: Git Ignore
+layout: default
 parent: Git Fundamentals 
 nav_order: 5
 ---

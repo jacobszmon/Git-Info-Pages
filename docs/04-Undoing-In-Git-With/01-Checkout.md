@@ -1,5 +1,6 @@
 ---
 title: Checkout
+layout: default
 parent: Undoing in Git with
 nav_order: 1
 ---

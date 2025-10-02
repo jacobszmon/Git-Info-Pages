@@ -1,5 +1,6 @@
 ---
 title: Centralized Workflow
+layout: default
 parent: The How and Why of Team Git Workflow
 nav_order: 1
 ---

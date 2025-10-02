@@ -1,5 +1,6 @@
 ---
 title: Pull Requests
+layout: default
 parent: The How and Why of Team Git Workflow
 nav_order: 4
 ---

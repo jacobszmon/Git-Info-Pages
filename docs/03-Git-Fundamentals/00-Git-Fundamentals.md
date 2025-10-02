@@ -2,7 +2,7 @@
 title: Git Fundamentals
 layout: default
 has-children: true
-nav_order: 2
+nav_order: 3
 ---
 
 # Git Fundamentals 
