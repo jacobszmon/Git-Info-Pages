@@ -7,7 +7,6 @@ Hello, my name is Sadie. I am a programmer at RRC Polytechnic Game Development p
 Hey there, I am Samuel Daya, a programmer at RRC Polytechnic Game Development Program. I enjoy playing Trading Card Games, collecting CDs, and bullet hells. My favourite fruit is a classic apple but if you pass me a lemon I will take a big bite. The best meal that I have consumed until now and maybe for the rest of my life is a Norwegian waffle with smoked salmon called a Rokelaks Waffle from KOS Waffles.
 
 **Jake**: 
-
 Hi! I'm Jake, and I'm programmer and writer currently enrolled in RRC Polytechnic's Game Development program. I'm a massive fan of all sorts of video games, with a special focus on RPGs with well written characters. I play a lot of DnD, probably too much, and I read when I can find the time. My favorite food is my Baba's perogies, but lately a good shawarma has been my kryptonite.
 
 
