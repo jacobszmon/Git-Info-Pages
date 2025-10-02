@@ -9,7 +9,7 @@ nav_order: 7
 # Stashing
 {: .no_toc }
 
-```git stash``` allows you to put aside changes that you don't want to commit immediately. 
+Stashing allows you to put aside changes that you don't want to commit immediately. 
 
 ## Table of Contents
 {: .no_toc }
@@ -28,8 +28,6 @@ With it, a kid can instantly clean their room, and when they want to play again,
 It allows you to temporarily store the state of your working directory, then restore that state when you need it.
 
 ## The Stash Stack
-
-Think of ```git stash``` as creating a stack of saved changes.
 
 You can stash multiple sets of changes and Git will store them in a LIFO (Last in, First Out) stack.
 
@@ -56,15 +54,15 @@ To restore stashed changes, use:
 - ```git stash apply``` - Re-applies the changes but keeps them in the stash.
 
 ## Other Helpful Stash Commands
-```git stash list``` : Review all your stashes before deciding to apply or drop them.
+- ```git stash list``` : Review all your stashes before deciding to apply or drop them.
 
-```git stash drop``` : Removes the most recent stash from the stack without applying it.
+- ```git stash drop``` : Removes the most recent stash from the stack without applying it.
 
-```git stash branch <branchname>``` : Creates a new branch based on the popped stash.
+- ```git stash branch <branchname>``` : Creates a new branch based on the popped stash.
 
-```git stash clear``` : This command removes all your stashes.
+- ```git stash clear``` : This command removes all your stashes.
 
-```git stash pop 'stash@{n}'``` : Pop a specific stash seen in ```git stash list``` .
+- ```git stash pop 'stash@{n}'``` : Pop a specific stash seen in ```git stash list``` .
 
 ## Sources
 - [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html#27)
