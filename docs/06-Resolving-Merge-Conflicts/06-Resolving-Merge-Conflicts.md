@@ -24,7 +24,7 @@ Merge conflicts occur when Git can't automatically merge two branches. This sect
 Git uses special markers to indicate the start and end of the conflicted area:
 
 - ```<<<<<<< HEAD``` : shows the start of the changes in the current branch.
-- ```=======``` : separator between the changes in the current and the other branch.
+- ```=======``` : a separator between the changes in the current and other branch.
 - ```>>>>>>> branch-name``` : shows the end of the changes in the other branch.
 
 The end result looks something like this:
