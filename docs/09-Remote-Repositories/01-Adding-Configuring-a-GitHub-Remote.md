@@ -63,6 +63,8 @@ git remote -v
 
 ## Sources and Additional Resources:
 
+- [Image Source](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html#47)
+
 - [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html#45)
 
 - [Set up Git](https://docs.github.com/en/get-started/git-basics/set-up-git)
