@@ -24,7 +24,7 @@ Merge conflicts occur when Git can't automatically merge two branches. This sect
 Git uses special markers to indicate the start and end of the conflicted area:
 
 - ```<<<<<<< HEAD``` : shows the start of the changes in the current branch.
-- ```=======``` : separator between the changes in the current and the other branch.
+- ```=======``` : a separator between the changes in the current and other branch.
 - ```>>>>>>> branch-name``` : shows the end of the changes in the other branch.
 
 The end result looks something like this:
@@ -49,6 +49,6 @@ To resolve a merge conflict:
 2. Add the file to the staging area with ```git add``` .
 3. Commit the fix with ```git commit``` .
 
-## Sources
+## Sources and Additional Resources:
 - [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html#24)
 - [GitHub Docs on Resolving Merge Conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)

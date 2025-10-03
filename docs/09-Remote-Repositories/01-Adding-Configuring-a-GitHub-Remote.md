@@ -61,7 +61,9 @@ Check if the remote has been added to a repository:
 git remote -v
 ```
 
-## Sources & Additional Links
+## Sources and Additional Resources:
+
+- [Image Source](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html#47)
 
 - [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html#45)
 

@@ -73,7 +73,7 @@ There are multiple philosophies that people follow when pushing and pulling.
 
 It is best to always pull before starting work and push everytime finishing work.
 
-## Sources & Additional Links
+## Sources and Additional Resources:
 
 - [Class Notes](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html#49)
 

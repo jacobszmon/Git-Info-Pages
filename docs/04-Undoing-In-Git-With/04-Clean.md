@@ -26,7 +26,7 @@ Clean offers a much more decisive way of undoing changes. Clean allows you to di
 
 Because ```git clean``` removes files that have no backups in previous commits, any affected file is permanently gone.
 
-_⚠️ **WARNING**: Using clean can be dangerous. The discarded changes cannot be recovered._
+_⚠️ **WARNING**: Using ```git clean``` can be dangerous. The discarded changes cannot be recovered._
 
 
 
@@ -42,5 +42,5 @@ If you want to remove all untracked files from your working directory:
 git clean
 ```
 
-## Sources and Additional Links
+## Sources and Additional Resources:
 - [Documentation for ```git clean```](https://git-scm.com/docs/git-clean)

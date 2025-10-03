@@ -16,7 +16,7 @@ In order to properly use version control you need to commit your repository. How
 {:toc}
 
 <!-- prettier-ignore-end -->
-## Staging Files Before we Commit
+## Staging Files Before We Commit
 As we make changes to our code we **commit** the changes to our git repo. Before we can **commit** we must **add** new or changed files to a staging area.
 
 To stage a specific file:
@@ -47,7 +47,7 @@ git commit -m "Your explanation of the changes goes here."
 
 For complex changes, we can include a short title, followed by a long explaination:
 ```
-git commit -m "Title" -m "Long description goes here .........."; 
+git commit -m "Title" -m "Long description goes here .........." 
 ```
 
 We can even [configure git to open a text editor of our choice using:](https://docs.github.com/en/get-started/getting-started-with-git/associating-text-editors-with-git)

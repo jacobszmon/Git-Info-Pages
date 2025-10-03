@@ -23,7 +23,7 @@ Checkout is a git command that provides a simple, yet slightly dangerous way to 
 ## What is Checkout?
 Checkout is the simplest way to privately undo work in a git repository. It allows you to discard any **unstaged** and **uncommitted** changes to **tracked** files in a local git repository.
 
-_⚠️ **WARNING**: Using checkout can be slightly dangerous. The discarded changes cannot be recovered._
+_⚠️ **WARNING**: Using ```git checkout``` can be slightly dangerous. The discarded changes cannot be recovered._
 
 
 ## How to use Checkout
@@ -39,6 +39,6 @@ git checkout .
 ```
 
 
-## Sources and Additional Links
+## Sources and Additional Resources:
 - [Class Notes on ```git checkout```](https://stungeye.github.io/Software-Development-And-Documentation-1/02-git-version-control-next-steps/index.html#4)
 - [Documentation for ```git checkout```](https://git-scm.com/docs/git-checkout)
